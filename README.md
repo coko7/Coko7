@@ -13,21 +13,21 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (2 days ago)
-- [coko7/op-tcg-auto-scripts](https://github.com/coko7/op-tcg-auto-scripts) - 🏴‍☠️ Collection of bash scripts to farm cards on op-tcg website (3 days ago)
-- [coko7/my-floss](https://github.com/coko7/my-floss) - 🐧 The list of Free/Libre Open-Source stuff I use. (4 days ago)
+- [coko7/aoc-2015](https://github.com/coko7/aoc-2015) - 🎄 My code for the Advent of Code 2015 edition  (1 day ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (3 days ago)
+- [coko7/op-tcg-auto-scripts](https://github.com/coko7/op-tcg-auto-scripts) - 🏴‍☠️ Collection of bash scripts to farm cards on op-tcg website (4 days ago)
 
 #### 🌱 My latest projects
 
+- [coko7/aoc-2015](https://github.com/coko7/aoc-2015) - 🎄 My code for the Advent of Code 2015 edition 
 - [coko7/op-tcg-auto-scripts](https://github.com/coko7/op-tcg-auto-scripts) - 🏴‍☠️ Collection of bash scripts to farm cards on op-tcg website
 - [coko7/test-tauri-app](https://github.com/coko7/test-tauri-app) - 🖥️ Just testing out Tauri to make desktop apps
-- [coko7/bookshelf](https://github.com/coko7/bookshelf) - 📚 Tracking the books I&#39;m reading these days 
 
 #### ⭐ Recent Stars
 
-- [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop  (1 day ago)
-- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (2 days ago)
-- [nushell/awesome-nu](https://github.com/nushell/awesome-nu) - A curated list of awesome tools that work within the nu language ecosystem e.g. nushell, scripts, nana, etc. (4 days ago)
+- [mhanberg/advent-of-code-elixir-starter](https://github.com/mhanberg/advent-of-code-elixir-starter) - Template project for Advent of Code in Elixir. (1 day ago)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (1 day ago)
+- [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop  (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
