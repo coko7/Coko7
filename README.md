@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 day ago)
-- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (2 days ago)
-- [coko7/op-tcg-auto-scripts](https://github.com/coko7/op-tcg-auto-scripts) - 🏴‍☠️ Collection of bash scripts to farm cards on op-tcg website (3 days ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (2 days ago)
+- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (3 days ago)
+- [coko7/op-tcg-auto-scripts](https://github.com/coko7/op-tcg-auto-scripts) - 🏴‍☠️ Collection of bash scripts to farm cards on op-tcg website (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool  (1 day ago)
-- [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer (1 day ago)
-- [cpcloud/minesweep-rs](https://github.com/cpcloud/minesweep-rs) - Sweep some mines for fun, and probably not for profit. (1 day ago)
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool  (2 days ago)
+- [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer (2 days ago)
+- [cpcloud/minesweep-rs](https://github.com/cpcloud/minesweep-rs) - Sweep some mines for fun, and probably not for profit. (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
