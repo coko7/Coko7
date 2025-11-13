@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (5 days ago)
-- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (6 days ago)
-- [coko7/op-tcg-auto-scripts](https://github.com/coko7/op-tcg-auto-scripts) - 🏴‍☠️ Collection of bash scripts to farm cards on op-tcg website (1 week ago)
+- [coko7/op-tcg-auto-scripts](https://github.com/coko7/op-tcg-auto-scripts) - 🏴‍☠️ Collection of bash scripts to farm cards on op-tcg website (1 day ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (6 days ago)
+- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞ (2 days ago)
-- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool  (5 days ago)
-- [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer (5 days ago)
+- [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang (1 day ago)
+- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞ (3 days ago)
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool  (6 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
