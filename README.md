@@ -13,8 +13,8 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/op-tcg-auto-scripts](https://github.com/coko7/op-tcg-auto-scripts) - 🏴‍☠️ Collection of bash scripts to farm cards on op-tcg website (2 days ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (2 days ago)
+- [coko7/op-tcg-auto-scripts](https://github.com/coko7/op-tcg-auto-scripts) - 🏴‍☠️ Collection of bash scripts to farm cards on op-tcg website (3 days ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (3 days ago)
 - [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -25,8 +25,8 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (2 days ago)
-- [cmatsuoka/figlet](https://github.com/cmatsuoka/figlet) - Claudio&#39;s FIGlet tree (4 days ago)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (3 days ago)
+- [cmatsuoka/figlet](https://github.com/cmatsuoka/figlet) - Claudio&#39;s FIGlet tree (5 days ago)
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (1 week ago)
 
 <picture>
