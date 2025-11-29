@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
+- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README. (today)
+- [coko7/advent-of-time](https://github.com/coko7/advent-of-time) - 🎄 Source code for the &#34;Advent Of Time&#34; browser game (today)
 - [coko7/my-floss](https://github.com/coko7/my-floss) - 🐧 The list of Free/Libre Open-Source stuff I use. (1 day ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 day ago)
-- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README. (3 days ago)
 
 #### 🌱 My latest projects
 
