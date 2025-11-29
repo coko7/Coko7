@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README. (2 days ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (2 days ago)
-- [coko7/op-tcg-auto-scripts](https://github.com/coko7/op-tcg-auto-scripts) - 🏴‍☠️ Collection of bash scripts to farm cards on op-tcg website (3 days ago)
+- [coko7/my-floss](https://github.com/coko7/my-floss) - 🐧 The list of Free/Libre Open-Source stuff I use. (1 day ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 day ago)
+- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables (1 day ago)
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (2 days ago)
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. (4 days ago)
+- [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. (1 day ago)
+- [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators (1 day ago)
+- [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
