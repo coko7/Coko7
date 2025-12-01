@@ -13,21 +13,21 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (1 day ago)
+- [coko7/aoc-2025](https://github.com/coko7/aoc-2025) - 🎄 My code for the Advent of Code 2025 edition  (1 day ago)
 - [coko7/advent-of-time](https://github.com/coko7/advent-of-time) - 🎄 Source code for the &#34;Advent Of Time&#34; browser game (1 day ago)
-- [coko7/my-floss](https://github.com/coko7/my-floss) - 🐧 The list of Free/Libre Open-Source stuff I use (2 days ago)
+- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (2 days ago)
 
 #### 🌱 My latest projects
 
+- [coko7/aoc-2025](https://github.com/coko7/aoc-2025) - 🎄 My code for the Advent of Code 2025 edition 
 - [coko7/aoc-2015](https://github.com/coko7/aoc-2015) - 🎄 My code for the Advent of Code 2015 edition 
 - [coko7/op-tcg-auto-scripts](https://github.com/coko7/op-tcg-auto-scripts) - 🏴‍☠️ Collection of bash scripts to farm cards on op-tcg website
-- [coko7/test-tauri-app](https://github.com/coko7/test-tauri-app) - 🖥️ Just testing out Tauri to make desktop apps
 
 #### ⭐ Recent Stars
 
-- [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. (2 days ago)
-- [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators (2 days ago)
-- [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables (3 days ago)
+- [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. (3 days ago)
+- [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators (3 days ago)
+- [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables (4 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
