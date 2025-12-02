@@ -14,8 +14,8 @@ I love working in Linux and the terminal is where I spend most of my time.
 #### 👷 My active projects
 
 - [coko7/aoc-2025](https://github.com/coko7/aoc-2025) - 🎄 My code for the Advent of Code 2025 edition  (1 day ago)
-- [coko7/advent-of-time](https://github.com/coko7/advent-of-time) - 🎄 Source code for the &#34;Advent Of Time&#34; browser game (1 day ago)
-- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (2 days ago)
+- [coko7/advent-of-time](https://github.com/coko7/advent-of-time) - ⏳ Source code for the &#34;Advent Of Time&#34; browser game (1 day ago)
+- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. (3 days ago)
-- [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators (3 days ago)
-- [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables (4 days ago)
+- [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. (4 days ago)
+- [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators (4 days ago)
+- [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables (5 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
