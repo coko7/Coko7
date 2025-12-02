@@ -5,19 +5,17 @@ A french developer who's passionate about programming and open-source.
 I love working in Linux and the terminal is where I spend most of my time.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coko7&layout=donut&theme=transparent" /> -->
-  <img height=200 align="center" src="https://github-readme-stats-two-eta-55.vercel.app/api/top-langs?username=coko7&layout=donut&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coko7&layout=donut&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=coko7&show_icons=true&theme=transparent" /> -->
-  <img height=200 align="center" src="https://github-readme-stats-two-eta-55.vercel.app/api?username=coko7&show_icons=true&theme=transparent" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=coko7&show_icons=true&theme=transparent" />
 </a>
 
 #### 👷 My active projects
 
-- [coko7/aoc-2025](https://github.com/coko7/aoc-2025) - 🎄 My code for the Advent of Code 2025 edition  (1 day ago)
-- [coko7/advent-of-time](https://github.com/coko7/advent-of-time) - ⏳ Source code for the &#34;Advent Of Time&#34; browser game (1 day ago)
-- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (3 days ago)
+- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (today)
+- [coko7/aoc-2025](https://github.com/coko7/aoc-2025) - 🎄 My code for the Advent of Code 2025 edition  (today)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (today)
 
 #### 🌱 My latest projects
 
