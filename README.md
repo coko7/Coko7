@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/aoc-2025](https://github.com/coko7/aoc-2025) - 🎄 My code for the Advent of Code 2025 edition  (1 day ago)
-- [coko7/advent-of-time](https://github.com/coko7/advent-of-time) - ⏳ Source code for the &#34;Advent Of Time&#34; browser game (2 days ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (2 days ago)
+- [coko7/advent-of-time](https://github.com/coko7/advent-of-time) - ⏳ Source code for the &#34;Advent Of Time&#34; browser game (1 day ago)
+- [coko7/aoc-2025](https://github.com/coko7/aoc-2025) - 🎄 My code for the Advent of Code 2025 edition  (2 days ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [gabe565/ascii-movie](https://github.com/gabe565/ascii-movie) - Star Wars SSH &#43; Telnet server written in Go. (1 day ago)
-- [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust (2 days ago)
-- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal. (2 days ago)
+- [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources (1 day ago)
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program (1 day ago)
+- [gabe565/ascii-movie](https://github.com/gabe565/ascii-movie) - Star Wars SSH &#43; Telnet server written in Go. (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
