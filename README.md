@@ -13,21 +13,21 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/nvim-config](https://github.com/coko7/nvim-config) - 🚀 My NeoVim config based on both kickstart.nvim and ThePrimeagen&#39;s config (2 days ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (3 days ago)
-- [coko7/advent-of-time](https://github.com/coko7/advent-of-time) - ⏳ Source code for the &#34;Advent Of Time&#34; browser game (1 week ago)
+- [coko7/expense-report](https://github.com/coko7/expense-report) - 🧾 Generate Excel reports from PDF invoices (1 day ago)
+- [coko7/nvim-config](https://github.com/coko7/nvim-config) - 🚀 My NeoVim config based on both kickstart.nvim and ThePrimeagen&#39;s config (3 days ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (4 days ago)
 
 #### 🌱 My latest projects
 
+- [coko7/expense-report](https://github.com/coko7/expense-report) - 🧾 Generate Excel reports from PDF invoices
 - [coko7/aoc-2025](https://github.com/coko7/aoc-2025) - 🎄 My code for the Advent of Code 2025 edition 
 - [coko7/aoc-2015](https://github.com/coko7/aoc-2015) - 🎄 My code for the Advent of Code 2015 edition 
-- [coko7/op-tcg-auto-scripts](https://github.com/coko7/op-tcg-auto-scripts) - 🏴‍☠️ Collection of bash scripts to farm cards on op-tcg website
 
 #### ⭐ Recent Stars
 
-- [invoice-x/invoice2data](https://github.com/invoice-x/invoice2data) - Extract structured data from PDF invoices (1 day ago)
-- [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim (actively maintained version) (1 week ago)
-- [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian (1 week ago)
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. (1 day ago)
+- [zbetcheckin/Security_list](https://github.com/zbetcheckin/Security_list) - Great security list for fun and profit (1 day ago)
+- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
