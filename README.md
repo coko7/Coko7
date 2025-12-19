@@ -15,7 +15,7 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 - [coko7/advent-of-time](https://github.com/coko7/advent-of-time) - ⏳ Source code for the &#34;Advent Of Time&#34; browser game (1 day ago)
 - [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (1 day ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (2 days ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [amkillam/ryzen_smu](https://github.com/amkillam/ryzen_smu) - A fork of the now-unmaintained https://gitlab.com/leogx9r/ryzen_smu with merge requests and my own updates applied. (1 day ago)
-- [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android (2 days ago)
-- [jameskokoska/Cashew](https://github.com/jameskokoska/Cashew) - 💸 An app created to help users manage a budget and purchases (2 days ago)
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator (1 day ago)
+- [amkillam/ryzen_smu](https://github.com/amkillam/ryzen_smu) - A fork of the now-unmaintained https://gitlab.com/leogx9r/ryzen_smu with merge requests and my own updates applied. (2 days ago)
+- [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android (3 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
