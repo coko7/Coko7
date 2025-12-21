@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/advent-of-time](https://github.com/coko7/advent-of-time) - ⏳ Source code for the &#34;Advent Of Time&#34; browser game (2 days ago)
-- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (2 days ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (4 days ago)
+- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (1 day ago)
+- [coko7/advent-of-time](https://github.com/coko7/advent-of-time) - ⏳ Source code for the &#34;Advent Of Time&#34; browser game (3 days ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (1 day ago)
-- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator (2 days ago)
-- [amkillam/ryzen_smu](https://github.com/amkillam/ryzen_smu) - A fork of the now-unmaintained https://gitlab.com/leogx9r/ryzen_smu with merge requests and my own updates applied. (3 days ago)
+- [BAA-Studios/MOOgiwara](https://github.com/BAA-Studios/MOOgiwara) - A multiplayer online browser ONE PIECE TCG simulator (1 day ago)
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (2 days ago)
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator (3 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
