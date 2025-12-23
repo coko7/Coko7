@@ -13,21 +13,21 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (2 days ago)
-- [coko7/advent-of-time](https://github.com/coko7/advent-of-time) - ⏳ Source code for the &#34;Advent Of Time&#34; browser game (4 days ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (6 days ago)
+- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 day ago)
+- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (3 days ago)
+- [coko7/advent-of-time](https://github.com/coko7/advent-of-time) - ⏳ Source code for the &#34;Advent Of Time&#34; browser game (5 days ago)
 
 #### 🌱 My latest projects
 
+- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website
 - [coko7/expense-report](https://github.com/coko7/expense-report) - 🧾 Generate Excel reports from PDF invoices
 - [coko7/aoc-2025](https://github.com/coko7/aoc-2025) - 🎄 My code for the Advent of Code 2025 edition 
-- [coko7/aoc-2015](https://github.com/coko7/aoc-2015) - 🎄 My code for the Advent of Code 2015 edition 
 
 #### ⭐ Recent Stars
 
-- [BAA-Studios/MOOgiwara](https://github.com/BAA-Studios/MOOgiwara) - A multiplayer online browser ONE PIECE TCG simulator (2 days ago)
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (3 days ago)
-- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator (4 days ago)
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (1 day ago)
+- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use (1 day ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
