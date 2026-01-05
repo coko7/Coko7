@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/practical-vim-notes](https://github.com/coko7/practical-vim-notes) - 📔 My notes on the Practical Vim book by Drew Neil (2 days ago)
-- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (2 days ago)
-- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (4 days ago)
+- [coko7/practical-vim-notes](https://github.com/coko7/practical-vim-notes) - 📔 My notes on the Practical Vim book by Drew Neil (3 days ago)
+- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (3 days ago)
+- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [liberapay/liberapay.com](https://github.com/liberapay/liberapay.com) - Source code of the recurrent donations platform Liberapay (2 days ago)
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (2 days ago)
-- [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) - OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more. (5 days ago)
+- [liberapay/liberapay.com](https://github.com/liberapay/liberapay.com) - Source code of the recurrent donations platform Liberapay (3 days ago)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (3 days ago)
+- [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) - OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more. (6 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
