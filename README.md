@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/practical-vim-notes](https://github.com/coko7/practical-vim-notes) - 📔 My notes on the Practical Vim book by Drew Neil (3 days ago)
-- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (3 days ago)
-- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (5 days ago)
+- [coko7/practical-vim-notes](https://github.com/coko7/practical-vim-notes) - 📔 My notes on the Practical Vim book by Drew Neil (1 day ago)
+- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 day ago)
+- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [liberapay/liberapay.com](https://github.com/liberapay/liberapay.com) - Source code of the recurrent donations platform Liberapay (3 days ago)
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (3 days ago)
-- [Astrosp/Awesome-OSINT-For-Everything](https://github.com/Astrosp/Awesome-OSINT-For-Everything) - OSINT tools for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more. (6 days ago)
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders. (1 day ago)
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks (1 day ago)
+- [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.  (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
