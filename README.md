@@ -15,7 +15,7 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 - [coko7/practical-vim-notes](https://github.com/coko7/practical-vim-notes) - 📔 My notes on the Practical Vim book by Drew Neil (1 day ago)
 - [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 day ago)
-- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (6 days ago)
+- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders. (1 day ago)
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks (1 day ago)
-- [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.  (1 day ago)
+- [thblt/write-yourself-a-git](https://github.com/thblt/write-yourself-a-git) - Learn Git by reimplementing it from scratch (1 day ago)
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. (1 day ago)
+- [FlyGoat/RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Adjust power management settings for Ryzen APUs (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
