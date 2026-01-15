@@ -13,8 +13,8 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
+- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 day ago)
 - [coko7/practical-vim-notes](https://github.com/coko7/practical-vim-notes) - 📔 My notes on the Practical Vim book by Drew Neil (1 week ago)
-- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 week ago)
 - [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe (2 days ago)
-- [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools. (2 days ago)
-- [NanowarOfSteel/HelloWorld](https://github.com/NanowarOfSteel/HelloWorld) -  (5 days ago)
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter (1 day ago)
+- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc. (1 day ago)
+- [kaansenol5/VibeOS](https://github.com/kaansenol5/VibeOS) - A completely vibecoded operating system targeting Aarch64 (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
