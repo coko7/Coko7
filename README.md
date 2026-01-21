@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [lyontechhub/lyontechhub.github.io](https://github.com/lyontechhub/lyontechhub.github.io) - Public web site that aggregates communication of group&#39;s communities. (2 days ago)
-- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (5 days ago)
-- [coko7/practical-vim-notes](https://github.com/coko7/practical-vim-notes) - 📔 My notes on the Practical Vim book by Drew Neil (2 weeks ago)
+- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (1 day ago)
+- [lyontechhub/lyontechhub.github.io](https://github.com/lyontechhub/lyontechhub.github.io) - Public web site that aggregates communication of group&#39;s communities. (3 days ago)
+- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [lyontechhub/lyontechhub.github.io](https://github.com/lyontechhub/lyontechhub.github.io) - Public web site that aggregates communication of group&#39;s communities. (2 days ago)
-- [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement) (5 days ago)
-- [dotnet/XAMLStudio](https://github.com/dotnet/XAMLStudio) - XAML Studio is a rapid prototyping tool for WinUI-based XAML that can then be easily copied into Visual Studio! (5 days ago)
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (1 day ago)
+- [lyontechhub/lyontechhub.github.io](https://github.com/lyontechhub/lyontechhub.github.io) - Public web site that aggregates communication of group&#39;s communities. (3 days ago)
+- [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement) (6 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
