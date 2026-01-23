@@ -14,20 +14,20 @@ I love working in Linux and the terminal is where I spend most of my time.
 #### 👷 My active projects
 
 - [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 day ago)
-- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (2 days ago)
-- [lyontechhub/lyontechhub.github.io](https://github.com/lyontechhub/lyontechhub.github.io) - Public web site that aggregates communication of group&#39;s communities. (4 days ago)
+- [coko7/practical-vim-notes](https://github.com/coko7/practical-vim-notes) - 📔 My notes on the Practical Vim book by Drew Neil (1 day ago)
+- [coko7/learn-go-web-examples](https://github.com/coko7/learn-go-web-examples) - 📖 Learning Go language web via https://gowebexamples.com (1 day ago)
 
 #### 🌱 My latest projects
 
+- [coko7/learn-go-web-examples](https://github.com/coko7/learn-go-web-examples) - 📖 Learning Go language web via https://gowebexamples.com
 - [coko7/practical-vim-notes](https://github.com/coko7/practical-vim-notes) - 📔 My notes on the Practical Vim book by Drew Neil
 - [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website
-- [coko7/expense-report](https://github.com/coko7/expense-report) - 🧾 Generate Excel reports from PDF invoices
 
 #### ⭐ Recent Stars
 
-- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things (1 day ago)
-- [paul-ohl/dotfiles](https://github.com/paul-ohl/dotfiles) - My dotfiles, managed with gnu stow (1 day ago)
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (2 days ago)
+- [paul-ohl/zmk-config-hummingbird](https://github.com/paul-ohl/zmk-config-hummingbird) - ZMK config for my hummingbird keyboard! (1 day ago)
+- [YAL-Tools/vial-to-keymap-drawer](https://github.com/YAL-Tools/vial-to-keymap-drawer) - Helps you show off your Vial keymaps! (1 day ago)
+- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
