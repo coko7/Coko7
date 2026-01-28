@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 day ago)
-- [coko7/crkbd](https://github.com/coko7/crkbd) - ⌨️ VIAL config for my Corne (foostan/crkbd) RGB keyboard.  (3 days ago)
-- [coko7/huco705-archive](https://github.com/coko7/huco705-archive) - 📦 Archive repo for my my first computer program ever (4 days ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (2 days ago)
+- [coko7/crkbd](https://github.com/coko7/crkbd) - ⌨️ VIAL config for my Corne (foostan/crkbd) RGB keyboard.  (4 days ago)
+- [coko7/huco705-archive](https://github.com/coko7/huco705-archive) - 📦 Archive repo for my my first computer program ever (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [abenz1267/elephant](https://github.com/abenz1267/elephant) -  (2 days ago)
-- [paul-ohl/zmk-config-hummingbird](https://github.com/paul-ohl/zmk-config-hummingbird) - ZMK config for my hummingbird keyboard! (5 days ago)
-- [YAL-Tools/vial-to-keymap-drawer](https://github.com/YAL-Tools/vial-to-keymap-drawer) - Helps you show off your Vial keymaps! (5 days ago)
+- [abenz1267/elephant](https://github.com/abenz1267/elephant) -  (3 days ago)
+- [paul-ohl/zmk-config-hummingbird](https://github.com/paul-ohl/zmk-config-hummingbird) - ZMK config for my hummingbird keyboard! (6 days ago)
+- [YAL-Tools/vial-to-keymap-drawer](https://github.com/YAL-Tools/vial-to-keymap-drawer) - Helps you show off your Vial keymaps! (6 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
