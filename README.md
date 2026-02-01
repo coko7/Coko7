@@ -14,8 +14,8 @@ I love working in Linux and the terminal is where I spend most of my time.
 #### 👷 My active projects
 
 - [coko7/expense-report](https://github.com/coko7/expense-report) - 🧾 Generate Excel reports from PDF invoices (1 day ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (5 days ago)
-- [coko7/crkbd](https://github.com/coko7/crkbd) - ⌨️ VIAL config for my Corne (foostan/crkbd) RGB keyboard.  (1 week ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 day ago)
+- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -25,7 +25,7 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [abenz1267/elephant](https://github.com/abenz1267/elephant) -  (6 days ago)
+- [abenz1267/elephant](https://github.com/abenz1267/elephant) -  (1 week ago)
 - [paul-ohl/zmk-config-hummingbird](https://github.com/paul-ohl/zmk-config-hummingbird) - ZMK config for my hummingbird keyboard! (1 week ago)
 - [YAL-Tools/vial-to-keymap-drawer](https://github.com/YAL-Tools/vial-to-keymap-drawer) - Helps you show off your Vial keymaps! (1 week ago)
 
