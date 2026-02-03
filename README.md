@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (2 days ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (2 days ago)
-- [coko7/kanumi](https://github.com/coko7/kanumi) - 🎨 Manage collection of images from your terminal (2 days ago)
+- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 day ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (3 days ago)
+- [coko7/kanumi](https://github.com/coko7/kanumi) - 🎨 Manage collection of images from your terminal (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,8 +25,8 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [nrempel/sleek](https://github.com/nrempel/sleek) - Sleek is a CLI tool for formatting SQL. It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. (1 day ago)
-- [kmARC/dotfiles](https://github.com/kmARC/dotfiles) - dotfiles for vim, neomutt and others on Arch Linux &amp; Mac OS  (1 day ago)
+- [nrempel/sleek](https://github.com/nrempel/sleek) - Sleek is a CLI tool for formatting SQL. It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. (2 days ago)
+- [kmARC/dotfiles](https://github.com/kmARC/dotfiles) - dotfiles for vim, neomutt and others on Arch Linux &amp; Mac OS  (2 days ago)
 - [abenz1267/elephant](https://github.com/abenz1267/elephant) -  (1 week ago)
 
 <picture>
