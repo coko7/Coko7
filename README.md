@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 day ago)
-- [coko7/nvim-config](https://github.com/coko7/nvim-config) - 🚀 My NeoVim config based on both kickstart.nvim and ThePrimeagen&#39;s config (1 day ago)
-- [coko7/my-floss](https://github.com/coko7/my-floss) - 🐧 My lists of Free/Libre Open-Source stuff (4 days ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (2 days ago)
+- [coko7/nvim-config](https://github.com/coko7/nvim-config) - 🚀 My NeoVim config based on both kickstart.nvim and ThePrimeagen&#39;s config (2 days ago)
+- [coko7/my-floss](https://github.com/coko7/my-floss) - 🐧 My lists of Free/Libre Open-Source stuff (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 days ago)
-- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (2 days ago)
-- [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world&#39;s fastest framework for building websites. (2 days ago)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (3 days ago)
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (3 days ago)
+- [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world&#39;s fastest framework for building websites. (3 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
