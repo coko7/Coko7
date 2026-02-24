@@ -13,8 +13,8 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (4 days ago)
-- [coko7/nvim-config](https://github.com/coko7/nvim-config) - 🚀 My NeoVim config based on both kickstart.nvim and ThePrimeagen&#39;s config (6 days ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (5 days ago)
+- [coko7/nvim-config](https://github.com/coko7/nvim-config) - 🚀 My NeoVim config based on both kickstart.nvim and ThePrimeagen&#39;s config (1 week ago)
 - [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [kriskw1999/ratatui-snake](https://github.com/kriskw1999/ratatui-snake) -  (1 day ago)
-- [unhappychoice/gittype](https://github.com/unhappychoice/gittype) - A CLI code-typing game that turns your source code into typing challenges (1 day ago)
-- [bellicose100xp/jiq](https://github.com/bellicose100xp/jiq) - Interactive JSON query tool with real-time output and AI assistance (1 day ago)
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (1 day ago)
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams (1 day ago)
+- [grindhousedev/grindlines](https://github.com/grindhousedev/grindlines) - The Great Grinding Guidelines™ (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
