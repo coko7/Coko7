@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (5 days ago)
-- [coko7/nvim-config](https://github.com/coko7/nvim-config) - 🚀 My NeoVim config based on both kickstart.nvim and ThePrimeagen&#39;s config (1 week ago)
-- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (2 weeks ago)
+- [coko7/crkbd](https://github.com/coko7/crkbd) - ⌨️ VIAL config for my Corne (foostan/crkbd) RGB keyboard.  (1 day ago)
+- [RTFW-rs/rtfw-base64-rs](https://github.com/RTFW-rs/rtfw-base64-rs) - ✨ Trying to implement Base 64 encoding from scratch just for fun. (1 day ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (1 day ago)
-- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams (1 day ago)
-- [grindhousedev/grindlines](https://github.com/grindhousedev/grindlines) - The Great Grinding Guidelines™ (1 day ago)
+- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy (1 day ago)
+- [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in (1 day ago)
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
