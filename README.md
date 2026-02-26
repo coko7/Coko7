@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/crkbd](https://github.com/coko7/crkbd) - ⌨️ VIAL config for my Corne (foostan/crkbd) RGB keyboard.  (1 day ago)
+- [RTFW-rs/rtfw-math-rs](https://github.com/RTFW-rs/rtfw-math-rs) - 🧮 Trying to implement some basic math functions in Rust. (today)
 - [RTFW-rs/rtfw-base64-rs](https://github.com/RTFW-rs/rtfw-base64-rs) - ✨ Trying to implement Base 64 encoding from scratch just for fun. (1 day ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (6 days ago)
+- [coko7/crkbd](https://github.com/coko7/crkbd) - ⌨️ VIAL config for my Corne (foostan/crkbd) RGB keyboard.  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy (1 day ago)
-- [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in (1 day ago)
-- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (2 days ago)
+- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy (2 days ago)
+- [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in (2 days ago)
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (3 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
