@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [RTFW-rs/rtfw-math-rs](https://github.com/RTFW-rs/rtfw-math-rs) - 🧮 Trying to implement some basic math functions in Rust. (1 day ago)
-- [RTFW-rs/rtfw-base64-rs](https://github.com/RTFW-rs/rtfw-base64-rs) - ✨ Trying to implement Base 64 encoding from scratch just for fun. (2 days ago)
-- [coko7/crkbd](https://github.com/coko7/crkbd) - ⌨️ VIAL config for my Corne (foostan/crkbd) RGB keyboard.  (3 days ago)
+- [RTFW-rs/rtfw-math-rs](https://github.com/RTFW-rs/rtfw-math-rs) - 🧮 Trying to implement some basic math functions in Rust. (2 days ago)
+- [RTFW-rs/rtfw-base64-rs](https://github.com/RTFW-rs/rtfw-base64-rs) - ✨ Trying to implement Base 64 encoding from scratch just for fun. (3 days ago)
+- [coko7/crkbd](https://github.com/coko7/crkbd) - ⌨️ VIAL config for my Corne (foostan/crkbd) RGB keyboard.  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy (3 days ago)
-- [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in (3 days ago)
-- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (4 days ago)
+- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy (4 days ago)
+- [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in (4 days ago)
+- [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails (5 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
