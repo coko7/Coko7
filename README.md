@@ -13,9 +13,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [RTFW-rs/rtfw-math-rs](https://github.com/RTFW-rs/rtfw-math-rs) - 🧮 Trying to implement some basic math functions in Rust. (1 day ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 day ago)
-- [RTFW-rs/rtfw-base64-rs](https://github.com/RTFW-rs/rtfw-base64-rs) - ✨ Trying to implement Base 64 encoding from scratch just for fun. (5 days ago)
+- [coko7/expense-report](https://github.com/coko7/expense-report) - 🧾 Generate Excel reports from PDF invoices (1 day ago)
+- [RTFW-rs/rtfw-math-rs](https://github.com/RTFW-rs/rtfw-math-rs) - 🧮 Trying to implement some basic math functions in Rust. (2 days ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +25,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [taupiqueur/chrome-shortcuts](https://github.com/taupiqueur/chrome-shortcuts) - A Chrome extension that lets you perform common tasks with your keyboard. (2 days ago)
-- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy (6 days ago)
-- [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in (6 days ago)
+- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI (1 day ago)
+- [naiveHobo/InvoiceNet](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents. (1 day ago)
+- [taupiqueur/chrome-shortcuts](https://github.com/taupiqueur/chrome-shortcuts) - A Chrome extension that lets you perform common tasks with your keyboard. (3 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
