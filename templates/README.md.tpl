@@ -4,12 +4,14 @@ A french developer who's passionate about programming and open-source.
 
 I love working in Linux and the terminal is where I spend most of my time.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-two-eta-55.vercel.app/api/top-langs?username=coko7&layout=donut&theme=transparent" />
+<a href="./profile/top-langs.svg">
+  <img height=200 align="center" src="./profile/top-langs.svg" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-two-eta-55.vercel.app/api?username=coko7&show_icons=true&theme=transparent" />
+<a href="./profile/stats.svg">
+  <img height=200 align="center" src="./profile/stats.svg" />
 </a>
+
+Stat cards generated with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 #### 👷 My active projects
 {{range recentContributions 3}}
