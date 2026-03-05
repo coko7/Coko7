@@ -4,18 +4,20 @@ A french developer who's passionate about programming and open-source.
 
 I love working in Linux and the terminal is where I spend most of my time.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-two-eta-55.vercel.app/api/top-langs?username=coko7&layout=donut&theme=transparent" />
+<a href="./profile/top-langs.svg">
+  <img height=200 align="center" src="./profile/top-langs.svg" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-two-eta-55.vercel.app/api?username=coko7&show_icons=true&theme=transparent" />
+<a href="./profile/stats.svg">
+  <img height=200 align="center" src="./profile/stats.svg" />
 </a>
+
+Stat cards generated with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 #### 👷 My active projects
 
+- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (today)
 - [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (2 days ago)
 - [coko7/expense-report](https://github.com/coko7/expense-report) - 🧾 Generate Excel reports from PDF invoices (3 days ago)
-- [RTFW-rs/rtfw-math-rs](https://github.com/RTFW-rs/rtfw-math-rs) - 🧮 Trying to implement some basic math functions in Rust. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -25,9 +27,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
+- [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action) - GitHub Action to generate GitHub Readme Stats cards. (today)
 - [TheRawMeatball/meme-cli](https://github.com/TheRawMeatball/meme-cli) - Because the world needed this I decided. (2 days ago)
 - [shyuan/awesome-oauth-oidc](https://github.com/shyuan/awesome-oauth-oidc) - Collect documentation related to OAuth 2.0 and OpenID Connect (2 days ago)
-- [cxreiff/ttysvr](https://github.com/cxreiff/ttysvr) - Screensavers for your terminal. (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
