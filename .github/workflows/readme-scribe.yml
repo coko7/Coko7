@@ -1,10 +1,15 @@
-name: Update README
+name: Update README ✨
 
 # Run daily at 01:00 UTC
 on:
-  push:
   schedule:
     - cron: "0 01 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+    - main
 
 jobs:
   markscribe:

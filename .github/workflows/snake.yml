@@ -5,7 +5,6 @@ on:
   schedule:
     - cron: "50 23 * * *"
 
-  # Allows to manually run the job at any time
   workflow_dispatch:
 
   push:
