@@ -4,11 +4,11 @@ A french developer who's passionate about programming and open-source.
 
 I love working in Linux and the terminal is where I spend most of my time.
 
-<a href="./profile/top-langs.svg">
-  <img height=200 align="center" src="./profile/top-langs.svg" />
+<a href="./images/grs-top-langs.svg">
+  <img height=200 align="center" src="./images/grs-top-langs.svg" />
 </a>
-<a href="./profile/stats.svg">
-  <img height=200 align="center" src="./profile/stats.svg" />
+<a href="./images/grs-stats.svg">
+  <img height=200 align="center" src="./images/grs-stats.svg" />
 </a>
 
 Stat cards generated with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
