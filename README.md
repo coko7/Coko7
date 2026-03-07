@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (1 day ago)
-- [terminalcollective/website](https://github.com/terminalcollective/website) -  (2 days ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (3 days ago)
+- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (2 days ago)
+- [terminalcollective/website](https://github.com/terminalcollective/website) -  (3 days ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action) - GitHub Action to generate GitHub Readme Stats cards. (1 day ago)
-- [TheRawMeatball/meme-cli](https://github.com/TheRawMeatball/meme-cli) - Because the world needed this I decided. (3 days ago)
-- [shyuan/awesome-oauth-oidc](https://github.com/shyuan/awesome-oauth-oidc) - Collect documentation related to OAuth 2.0 and OpenID Connect (3 days ago)
+- [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action) - GitHub Action to generate GitHub Readme Stats cards. (2 days ago)
+- [TheRawMeatball/meme-cli](https://github.com/TheRawMeatball/meme-cli) - Because the world needed this I decided. (4 days ago)
+- [shyuan/awesome-oauth-oidc](https://github.com/shyuan/awesome-oauth-oidc) - Collect documentation related to OAuth 2.0 and OpenID Connect (4 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
