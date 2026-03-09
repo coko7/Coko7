@@ -13,11 +13,6 @@ I love working in Linux and the terminal is where I spend most of my time.
     </a>
 </div>
 
-<p style="text-align: center;">
-    <span>Stat cards generated with </span>
-    <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
-</p>
-
 #### 👷 My active projects
 {{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
