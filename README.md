@@ -13,15 +13,10 @@ I love working in Linux and the terminal is where I spend most of my time.
     </a>
 </div>
 
-<p style="text-align: center;">
-    <span>Stat cards generated with </span>
-    <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
-</p>
-
 #### 👷 My active projects
 
+- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (today)
 - [terminalcollective/website](https://github.com/terminalcollective/website) -  (2 days ago)
-- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (4 days ago)
 - [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (6 days ago)
 
 #### 🌱 My latest projects
