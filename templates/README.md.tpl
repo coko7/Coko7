@@ -4,13 +4,9 @@ A french developer who's passionate about programming and open-source.
 
 I love working in Linux and the terminal is where I spend most of my time.
 
-<div style="text-align: center;">
-    <a href="./images/grs-top-langs.svg">
-      <img height=200 align="center" src="./images/grs-top-langs.svg" />
-    </a>
-    <a href="./images/grs-stats.svg">
-      <img height=200 align="center" src="./images/grs-stats.svg" />
-    </a>
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
+    <img height=200 align="center" alt="Top languages GitHub stat card" src="./images/grs-top-langs.svg" />
+    <img height=200 align="center" alt="User profile GitHub stat card" src="./images/grs-stats.svg" />
 </div>
 
 #### 👷 My active projects
