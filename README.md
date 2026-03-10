@@ -11,9 +11,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (today)
-- [terminalcollective/website](https://github.com/terminalcollective/website) -  (2 days ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (6 days ago)
+- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (1 day ago)
+- [terminalcollective/website](https://github.com/terminalcollective/website) -  (3 days ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -23,9 +23,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [msokalski/asciicker](https://github.com/msokalski/asciicker) - 3D ASCII game concept (1 day ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
-- [tmux-plugins/tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) - Quickly open any url on your terminal window! (1 day ago)
+- [Baudeur/pizza-party-maker](https://github.com/Baudeur/pizza-party-maker) - A small full frontend react project to plan pizza order according to people&#39;s diet. (1 day ago)
+- [msokalski/asciicker](https://github.com/msokalski/asciicker) - 3D ASCII game concept (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
