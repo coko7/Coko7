@@ -20,20 +20,36 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
-      - name: Generate stats card
+      - name: Generate stats card (dark version)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&title_color=51aeddff&text_color=ffffffff&bg_color=3c3c3aff&icon_color=51aeddff&border_color=51aeddff&card_width=200px
-          path: images/grs-stats.svg
+          options: username=${{ github.repository_owner }}&show_icons=true&bg_color=00000000&title_color=51aeddff&text_color=ffffffff&icon_color=51aeddff&hide_border=true&card_width=200px
+          path: images/grs-user-stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
+      - name: Generate stats card (light version)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&bg_color=00000000&title_color=51aeddff&text_color=000000ff&icon_color=51aeddff&hide_border=true&card_width=200px
+          path: images/grs-user-stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (dark version)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=donut&title_color=51aeddff&text_color=ffffffff&bg_color=3c3c3aff&border_color=51aeddff&card_width=200px
-          path: images/grs-top-langs.svg
+          options: username=${{ github.repository_owner }}&layout=donut&bg_color=00000000&title_color=51aeddff&text_color=ffffffff&hide_border=true&card_width=200px
+          path: images/grs-top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (light version)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=donut&bg_color=00000000&title_color=51aeddff&text_color=000000ff&hide_border=true&card_width=200px
+          path: images/grs-top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
