@@ -20,8 +20,8 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (1 day ago)
-- [terminalcollective/website](https://github.com/terminalcollective/website) -  (4 days ago)
+- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (2 days ago)
+- [terminalcollective/website](https://github.com/terminalcollective/website) -  (5 days ago)
 - [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 week ago)
 
 #### 🌱 My latest projects
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible (1 day ago)
-- [Mjoyufull/fsel](https://github.com/Mjoyufull/fsel) - Fast TUI app launcher for GNU/Linux and *BSD (1 day ago)
-- [Baudeur/pizza-party-maker](https://github.com/Baudeur/pizza-party-maker) - A small full frontend react project to plan pizza order according to people&#39;s diet. (2 days ago)
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (1 day ago)
+- [nethical6/digipaws](https://github.com/nethical6/digipaws) - Free App Blocker for android (1 day ago)
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
