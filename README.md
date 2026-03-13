@@ -20,21 +20,21 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (2 days ago)
-- [terminalcollective/website](https://github.com/terminalcollective/website) -  (5 days ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 week ago)
+- [coko7/f-win](https://github.com/coko7/f-win) - 🤬 A handy script to &#34;fix&#34; Windows by installing decent CLIs and apps. (1 day ago)
+- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (3 days ago)
+- [terminalcollective/website](https://github.com/terminalcollective/website) -  (6 days ago)
 
 #### 🌱 My latest projects
 
+- [coko7/f-win](https://github.com/coko7/f-win) - 🤬 A handy script to &#34;fix&#34; Windows by installing decent CLIs and apps.
 - [coko7/bookshelf](https://github.com/coko7/bookshelf) - 📚 List of books I read / am reading / want to read.
 - [coko7/huco705-archive](https://github.com/coko7/huco705-archive) - 📦 Archive repo for my my first computer program ever
-- [coko7/learn-go-web-examples](https://github.com/coko7/learn-go-web-examples) - 📖 Learning Go language web via https://gowebexamples.com
 
 #### ⭐ Recent Stars
 
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (1 day ago)
-- [nethical6/digipaws](https://github.com/nethical6/digipaws) - Free App Blocker for android (1 day ago)
-- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible (2 days ago)
+- [terminalcollective/website](https://github.com/terminalcollective/website) -  (1 day ago)
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (2 days ago)
+- [nethical6/digipaws](https://github.com/nethical6/digipaws) - Free App Blocker for android (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
