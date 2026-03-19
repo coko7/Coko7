@@ -20,21 +20,21 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/boat](https://github.com/coko7/boat) - ⛵ Basic Opinionated Activity Tracker, inspired by bartib. (1 day ago)
-- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (2 days ago)
-- [coko7/f-win](https://github.com/coko7/f-win) - 🤬 A handy script to &#34;fix&#34; Windows by installing decent CLIs and apps. (6 days ago)
+- [coko7/f-win](https://github.com/coko7/f-win) - 🤬 A handy script to &#34;fix&#34; Windows by installing decent CLIs and apps. (1 day ago)
+- [coko7/boat-lib](https://github.com/coko7/boat-lib) - ⚙️ Rust utility library for boat. (1 day ago)
+- [coko7/boat](https://github.com/coko7/boat) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (1 day ago)
 
 #### 🌱 My latest projects
 
-- [coko7/boat](https://github.com/coko7/boat) - ⛵ Basic Opinionated Activity Tracker, inspired by bartib.
+- [coko7/boat](https://github.com/coko7/boat) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib. 
+- [coko7/boat-lib](https://github.com/coko7/boat-lib) - ⚙️ Rust utility library for boat.
 - [coko7/f-win](https://github.com/coko7/f-win) - 🤬 A handy script to &#34;fix&#34; Windows by installing decent CLIs and apps.
-- [coko7/bookshelf](https://github.com/coko7/bookshelf) - 📚 List of books I read / am reading / want to read.
 
 #### ⭐ Recent Stars
 
-- [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, and Markdown viewer (2 days ago)
-- [nikolassv/bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports. (5 days ago)
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations. (5 days ago)
+- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal (1 day ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 day ago)
+- [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, and Markdown viewer (3 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
