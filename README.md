@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (1 day ago)
-- [coko7/boat-lib](https://github.com/coko7/boat-lib) - ⚙️ Rust utility library for boat. (1 day ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (4 days ago)
+- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (today)
+- [terminalcollective/website](https://github.com/terminalcollective/website) -  (today)
+- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (today)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more. (2 days ago)
-- [austral/austral](https://github.com/austral/austral) - Systems language with linear types and capability-based security. (3 days ago)
-- [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions! (4 days ago)
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust (today)
+- [DualHorizon/malbox](https://github.com/DualHorizon/malbox) - Extensible, open-source solution for automated file sandboxing and analysis (today)
+- [Mjoyufull/Mjoyufull](https://github.com/Mjoyufull/Mjoyufull) - me (today)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
