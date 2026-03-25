@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (today)
-- [terminalcollective/website](https://github.com/terminalcollective/website) -  (today)
-- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (today)
+- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (1 day ago)
+- [terminalcollective/website](https://github.com/terminalcollective/website) -  (1 day ago)
+- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust (today)
-- [DualHorizon/malbox](https://github.com/DualHorizon/malbox) - Extensible, open-source solution for automated file sandboxing and analysis (today)
-- [Mjoyufull/Mjoyufull](https://github.com/Mjoyufull/Mjoyufull) - me (today)
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust (1 day ago)
+- [DualHorizon/malbox](https://github.com/DualHorizon/malbox) - Extensible, open-source solution for automated file sandboxing and analysis (1 day ago)
+- [Mjoyufull/Mjoyufull](https://github.com/Mjoyufull/Mjoyufull) - me (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
