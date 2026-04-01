@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (4 days ago)
-- [coko7/boat-lib](https://github.com/coko7/boat-lib) - ⚙️ Rust utility library for boat. (4 days ago)
-- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (4 days ago)
+- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (5 days ago)
+- [coko7/boat-lib](https://github.com/coko7/boat-lib) - ⚙️ Rust utility library for boat. (5 days ago)
+- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [cooklang/cooklang-import](https://github.com/cooklang/cooklang-import) - Library to import recipes into Cooklang format (1 day ago)
-- [cooklang/awesome-cooklang-recipes](https://github.com/cooklang/awesome-cooklang-recipes) - A curated list of cookbooks and recipes involving the use of the cooklang recipe markup language (1 day ago)
-- [RockinChaos/Shiru](https://github.com/RockinChaos/Shiru) - A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required! (4 days ago)
+- [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer) - 📇 Synchronize calendars and contacts. (1 day ago)
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (1 day ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
