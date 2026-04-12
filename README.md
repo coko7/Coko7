@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (1 day ago)
-- [coko7/boat-lib](https://github.com/coko7/boat-lib) - ⚙️ Rust utility library for boat. (3 days ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (3 days ago)
+- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (2 days ago)
+- [coko7/boat-lib](https://github.com/coko7/boat-lib) - ⚙️ Rust utility library for boat. (4 days ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [christian-grothe/grainiac](https://github.com/christian-grothe/grainiac) - A granular sampler written in rust (1 day ago)
-- [Jagalite/superseedr](https://github.com/Jagalite/superseedr) - A BitTorrent Client in your Terminal (1 day ago)
-- [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub. (1 day ago)
+- [dedene/strawpoll-cli](https://github.com/dedene/strawpoll-cli) - StrawPoll in your termina (1 day ago)
+- [christian-grothe/grainiac](https://github.com/christian-grothe/grainiac) - A granular sampler written in rust (2 days ago)
+- [Jagalite/superseedr](https://github.com/Jagalite/superseedr) - A BitTorrent Client in your Terminal (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
