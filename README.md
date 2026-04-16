@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/mc-fish-pye](https://github.com/coko7/mc-fish-pye) - 🎣 AFK auto-fishing script for Minecraft using Python and OpenCV. (1 day ago)
 - [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 day ago)
-- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (5 days ago)
+- [coko7/mc-fish-pye](https://github.com/coko7/mc-fish-pye) - 🎣 AFK auto-fishing script for Minecraft using Python and OpenCV. (2 days ago)
+- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [AnkurRathore/tsastat](https://github.com/AnkurRathore/tsastat) - Thread State Analysis tool using Linux Netlink taskstats (2 days ago)
-- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (3 days ago)
-- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis (3 days ago)
+- [dictcp/awesome-git](https://github.com/dictcp/awesome-git) - A curated list of amazingly awesome Git tools, resources and shiny things (1 day ago)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (1 day ago)
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
