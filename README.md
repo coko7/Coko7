@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (2 days ago)
-- [coko7/mc-fish-pye](https://github.com/coko7/mc-fish-pye) - 🎣 AFK auto-fishing script for Minecraft using Python and OpenCV. (3 days ago)
-- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (1 week ago)
+- [coko7/kanumi](https://github.com/coko7/kanumi) - 🎨 Manage collection of images from your terminal (1 day ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (3 days ago)
+- [coko7/mc-fish-pye](https://github.com/coko7/mc-fish-pye) - 🎣 AFK auto-fishing script for Minecraft using Python and OpenCV. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH. (1 day ago)
-- [aymenhafeez/stravaTUI](https://github.com/aymenhafeez/stravaTUI) - A TUI for viewing your Strava run data (1 day ago)
-- [dictcp/awesome-git](https://github.com/dictcp/awesome-git) - A curated list of amazingly awesome Git tools, resources and shiny things (2 days ago)
+- [vaxerski/Holy6800](https://github.com/vaxerski/Holy6800) - A small HolyC compiler for the Motorola 6800. (1 day ago)
+- [martanne/vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9&#39;s structural regular expressions (1 day ago)
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
