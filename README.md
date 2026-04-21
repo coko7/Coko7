@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH. (1 day ago)
-- [coko7/kanumi](https://github.com/coko7/kanumi) - 🎨 Manage collection of images from your terminal (3 days ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (5 days ago)
+- [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH. (2 days ago)
+- [coko7/kanumi](https://github.com/coko7/kanumi) - 🎨 Manage collection of images from your terminal (4 days ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do (1 day ago)
-- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm (1 day ago)
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, JavaScript, or Python apps. (1 day ago)
+- [Rolv-Apneseth/rofi-nerdy](https://github.com/Rolv-Apneseth/rofi-nerdy) - Nerd font icon selector plugin for rofi (1 day ago)
+- [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub. (1 day ago)
+- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project&#39;s commit messages and metadata. (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
