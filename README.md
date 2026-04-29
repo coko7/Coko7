@@ -22,7 +22,7 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 - [coko7/boat-fleet](https://github.com/coko7/boat-fleet) - 🐚 A collection of shell scripts to augment the boat-cli (1 day ago)
 - [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 day ago)
-- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (3 days ago)
+- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [sermuns/dualboot-bt-link-keys](https://github.com/sermuns/dualboot-bt-link-keys) - Copy Bluetooth link keys from Windows to Linux (1 day ago)
-- [orhun/ratty](https://github.com/orhun/ratty) - A next-gen terminal emulator for all the terminal rats 🐁🐁🐁 (1 day ago)
-- [textfuel/lazyjira](https://github.com/textfuel/lazyjira) - Lazygit but for Jira (1 day ago)
+- [Mjoyufull/Elda](https://github.com/Mjoyufull/Elda) - a git based systems package manager (1 day ago)
+- [sermuns/dualboot-bt-link-keys](https://github.com/sermuns/dualboot-bt-link-keys) - Copy Bluetooth link keys from Windows to Linux (2 days ago)
+- [orhun/ratty](https://github.com/orhun/ratty) - A next-gen terminal emulator for all the terminal rats 🐁🐁🐁 (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
