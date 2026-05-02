@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/boat-fleet](https://github.com/coko7/boat-fleet) - 🐚 A collection of shell scripts to augment the boat-cli (3 days ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (3 days ago)
-- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (6 days ago)
+- [coko7/my-floss](https://github.com/coko7/my-floss) - 🐧 My lists of Free/Libre Open-Source stuff (1 day ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (4 days ago)
+- [coko7/boat-fleet](https://github.com/coko7/boat-fleet) - 🐚 A collection of shell scripts to augment the boat-cli (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [Vaishnav-Sabari-Girish/Daily-Kanji](https://github.com/Vaishnav-Sabari-Girish/Daily-Kanji) - Kanji Practice TUI (1 day ago)
-- [Mjoyufull/Elda](https://github.com/Mjoyufull/Elda) - a git based systems package manager (3 days ago)
-- [sermuns/dualboot-bt-link-keys](https://github.com/sermuns/dualboot-bt-link-keys) - Copy Bluetooth link keys from Windows to Linux (4 days ago)
+- [yomidevs/yomitan](https://github.com/yomidevs/yomitan) - Pop-up dictionary browser extension for language learning. Successor to Yomichan. (today)
+- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control (1 day ago)
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.  (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
