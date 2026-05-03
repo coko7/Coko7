@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/my-floss](https://github.com/coko7/my-floss) - 🐧 My lists of Free/Libre Open-Source stuff (1 day ago)
-- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (4 days ago)
-- [coko7/boat-fleet](https://github.com/coko7/boat-fleet) - 🐚 A collection of shell scripts to augment the boat-cli (4 days ago)
+- [coko7/my-floss](https://github.com/coko7/my-floss) - 🐧 My lists of Free/Libre Open-Source stuff (2 days ago)
+- [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (5 days ago)
+- [coko7/boat-fleet](https://github.com/coko7/boat-fleet) - 🐚 A collection of shell scripts to augment the boat-cli (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [yomidevs/yomitan](https://github.com/yomidevs/yomitan) - Pop-up dictionary browser extension for language learning. Successor to Yomichan. (today)
-- [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control (1 day ago)
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.  (1 day ago)
+- [boxdot/gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Messenger client for terminal (1 day ago)
+- [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger. (1 day ago)
+- [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀 (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
