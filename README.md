@@ -20,7 +20,7 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (5 days ago)
+- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (6 days ago)
 - [coko7/my-floss](https://github.com/coko7/my-floss) - 🐧 My lists of Free/Libre Open-Source stuff (1 week ago)
 - [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (2 weeks ago)
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization (1 day ago)
-- [joshka/betamax](https://github.com/joshka/betamax) -  (4 days ago)
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. (4 days ago)
+- [rafaelromao/keyboards](https://github.com/rafaelromao/keyboards) - A split keyboard layout, optimized for Portuguese, English, working with numbers and software programming with VIM plugins. (1 day ago)
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (1 day ago)
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
