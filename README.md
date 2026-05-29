@@ -20,7 +20,7 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/my-floss](https://github.com/coko7/my-floss) - 🐧 My lists of Free/Libre Open-Source stuff (1 week ago)
+- [coko7/my-floss](https://github.com/coko7/my-floss) - 🐧 My lists of Free/Libre Open-Source stuff (2 weeks ago)
 - [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (3 weeks ago)
 - [coko7/.dotfiles](https://github.com/coko7/.dotfiles) - 🔧 All the .dotfiles that I use for my Linux config (1 month ago)
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [orhun/rustypaste-cli](https://github.com/orhun/rustypaste-cli) - A CLI tool for rustypaste (1 day ago)
-- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone) (1 day ago)
-- [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation (2 days ago)
+- [orhun/rustypaste-cli](https://github.com/orhun/rustypaste-cli) - A CLI tool for rustypaste (2 days ago)
+- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone) (2 days ago)
+- [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation (3 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
