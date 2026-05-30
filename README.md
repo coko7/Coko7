@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [orhun/rustypaste-cli](https://github.com/orhun/rustypaste-cli) - A CLI tool for rustypaste (2 days ago)
-- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone) (2 days ago)
-- [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation (3 days ago)
+- [b1rdmania/motif](https://github.com/b1rdmania/motif) - Wario.Style. Game Boy Midi Synthesis Engine. Search any song. Get the 8-bit Game Boy version. (1 day ago)
+- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension &#43; bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler (1 day ago)
+- [rebane2001/xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
