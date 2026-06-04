@@ -20,21 +20,21 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/my-floss](https://github.com/coko7/my-floss) - 🐧 My lists of Free/Libre Open-Source stuff (1 day ago)
-- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (1 day ago)
-- [orhun/rustypaste](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. (4 days ago)
+- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (today)
+- [coko7/memonde](https://github.com/coko7/memonde) - 🌍 Guess the maximum number of coutries in the limited time. (1 day ago)
+- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (2 days ago)
 
 #### 🌱 My latest projects
 
+- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday.
+- [coko7/memonde](https://github.com/coko7/memonde) - 🌍 Guess the maximum number of coutries in the limited time.
 - [coko7/boat-fleet](https://github.com/coko7/boat-fleet) - 🐚 A collection of shell scripts to augment the boat-cli
-- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib. 
-- [coko7/boat-lib](https://github.com/coko7/boat-lib) - ⚙️ Rust utility library for boat.
 
 #### ⭐ Recent Stars
 
-- [youedd/geo-expert-memory-test](https://github.com/youedd/geo-expert-memory-test) - A memory game to test your geographical knowledge (1 day ago)
-- [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) - Wayland Compositor in Minecraft (1 day ago)
-- [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (1 day ago)
+- [youedd/geo-expert-memory-test](https://github.com/youedd/geo-expert-memory-test) - A memory game to test your geographical knowledge (2 days ago)
+- [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) - Wayland Compositor in Minecraft (2 days ago)
+- [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
