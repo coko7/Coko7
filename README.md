@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (today)
-- [coko7/memonde](https://github.com/coko7/memonde) - 🌍 Guess the maximum number of coutries in the limited time. (1 day ago)
-- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (2 days ago)
+- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (1 day ago)
+- [coko7/memonde](https://github.com/coko7/memonde) - 🌍 Guess the maximum number of coutries in the limited time. (2 days ago)
+- [coko7/boat-cli](https://github.com/coko7/boat-cli) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [youedd/geo-expert-memory-test](https://github.com/youedd/geo-expert-memory-test) - A memory game to test your geographical knowledge (2 days ago)
-- [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) - Wayland Compositor in Minecraft (2 days ago)
-- [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR. (2 days ago)
+- [Vaishnav-Sabari-Girish/ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) - A Blazingly Fast Minimal Serial Monitor with serial plottter TUI and more (1 day ago)
+- [youedd/geo-expert-memory-test](https://github.com/youedd/geo-expert-memory-test) - A memory game to test your geographical knowledge (3 days ago)
+- [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) - Wayland Compositor in Minecraft (3 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
