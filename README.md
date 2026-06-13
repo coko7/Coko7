@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [RTFW-rs/rtfw-sudoku-rs](https://github.com/RTFW-rs/rtfw-sudoku-rs) - 🧩 A simple sudoku library from scratch (checker, solver, etc.) (1 day ago)
-- [coko7/memonde](https://github.com/coko7/memonde) - 🌍 Guess the maximum number of countries in the limited time. (2 days ago)
-- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (1 week ago)
+- [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH. (1 day ago)
+- [RTFW-rs/rtfw-sudoku-rs](https://github.com/RTFW-rs/rtfw-sudoku-rs) - 🧩 A simple sudoku library from scratch (checker, solver). (1 day ago)
+- [coko7/memonde](https://github.com/coko7/memonde) - 🌍 Guess the maximum number of countries in the limited time. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints. (2 days ago)
-- [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player (2 days ago)
-- [LeoColomb/perfectmotherfuckingwebsite](https://github.com/LeoColomb/perfectmotherfuckingwebsite) - 🖕 And it’s really more fucking perfect than the last guy’s. (3 days ago)
+- [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY (1 day ago)
+- [Handfish/confetty_rs](https://github.com/Handfish/confetty_rs) - Rust port of maaslalani/confetty (1 day ago)
+- [Vaishnav-Sabari-Girish/dotfiles](https://github.com/Vaishnav-Sabari-Girish/dotfiles) -  (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
