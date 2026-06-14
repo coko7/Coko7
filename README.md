@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH. (1 day ago)
-- [RTFW-rs/rtfw-sudoku-rs](https://github.com/RTFW-rs/rtfw-sudoku-rs) - 🧩 A simple sudoku library from scratch (checker, solver). (1 day ago)
-- [coko7/memonde](https://github.com/coko7/memonde) - 🌍 Guess the maximum number of countries in the limited time. (3 days ago)
+- [coko7/tcb-opus](https://github.com/coko7/tcb-opus) - 🤖 A discord bot to get the latest manga chapters from TCB Scans as soon as they come out. (1 day ago)
+- [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH. (2 days ago)
+- [RTFW-rs/rtfw-sudoku-rs](https://github.com/RTFW-rs/rtfw-sudoku-rs) - 🧩 A simple sudoku library from scratch (checker, solver). (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY (1 day ago)
-- [Handfish/confetty_rs](https://github.com/Handfish/confetty_rs) - Rust port of maaslalani/confetty (1 day ago)
-- [Vaishnav-Sabari-Girish/dotfiles](https://github.com/Vaishnav-Sabari-Girish/dotfiles) -  (1 day ago)
+- [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY (2 days ago)
+- [Handfish/confetty_rs](https://github.com/Handfish/confetty_rs) - Rust port of maaslalani/confetty (2 days ago)
+- [Vaishnav-Sabari-Girish/dotfiles](https://github.com/Vaishnav-Sabari-Girish/dotfiles) -  (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
