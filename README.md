@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (1 day ago)
-- [coko7/tcb-opus](https://github.com/coko7/tcb-opus) - 🤖 A discord bot to get the latest manga chapters from TCB Scans as soon as they come out. (4 days ago)
-- [RTFW-rs/rtfw-sudoku-rs](https://github.com/RTFW-rs/rtfw-sudoku-rs) - 🧩 A simple sudoku library from scratch (checker, solver). (5 days ago)
+- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (2 days ago)
+- [coko7/tcb-opus](https://github.com/coko7/tcb-opus) - 🤖 A discord bot to get the latest manga chapters from TCB Scans as soon as they come out. (5 days ago)
+- [RTFW-rs/rtfw-sudoku-rs](https://github.com/RTFW-rs/rtfw-sudoku-rs) - 🧩 A simple sudoku library from scratch (checker, solver). (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [rmrfhome/mono-focus](https://github.com/rmrfhome/mono-focus) -  (1 day ago)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 day ago)
-- [maaslalani/confetty](https://github.com/maaslalani/confetty) - Confetti in your TTY (5 days ago)
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (1 day ago)
+- [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications. (1 day ago)
+- [rmrfhome/mono-focus](https://github.com/rmrfhome/mono-focus) -  (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
