@@ -20,8 +20,8 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [RTFW-rs/rtfw-sudoku-rs](https://github.com/RTFW-rs/rtfw-sudoku-rs) - 🧩 A simple sudoku library from scratch (generator, checker, solver). (3 days ago)
-- [coko7/boat-fleet](https://github.com/coko7/boat-fleet) - 🐚 A collection of shell scripts to augment the boat-cli (5 days ago)
+- [RTFW-rs/rtfw-sudoku-rs](https://github.com/RTFW-rs/rtfw-sudoku-rs) - 🧩 A simple sudoku library from scratch (generator, checker, solver). (4 days ago)
+- [coko7/boat-fleet](https://github.com/coko7/boat-fleet) - 🐚 A collection of shell scripts to augment the boat-cli (6 days ago)
 - [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (1 week ago)
 
 #### 🌱 My latest projects
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [fairecasoimeme/Zlinky_TIC](https://github.com/fairecasoimeme/Zlinky_TIC) - Téléinformation Linky autoalimenté ZigBee 3.0 (3 days ago)
-- [ricott1/rebels-in-the-sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy (4 days ago)
-- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system (4 days ago)
+- [pwnwriter/eipi.boo](https://github.com/pwnwriter/eipi.boo) - 🫶🏼 2d world/cards of anonymous confessions over ssh (1 day ago)
+- [fairecasoimeme/Zlinky_TIC](https://github.com/fairecasoimeme/Zlinky_TIC) - Téléinformation Linky autoalimenté ZigBee 3.0 (4 days ago)
+- [ricott1/rebels-in-the-sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy (5 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
