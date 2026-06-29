@@ -20,21 +20,21 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/expense-report](https://github.com/coko7/expense-report) - 🧾 Generate Excel reports from PDF invoices (1 day ago)
+- [coko7/invoice2json](https://github.com/coko7/invoice2json) - 🧾 Extract structured JSON from invoices and receipts using a local Ollama vision model — no cloud APIs required. (1 day ago)
+- [coko7/expense-report](https://github.com/coko7/expense-report) - 🧾 Generate Excel reports from PDF invoices (2 days ago)
 - [RTFW-rs/rtfw-sudoku-rs](https://github.com/RTFW-rs/rtfw-sudoku-rs) - 🧩 A simple sudoku library from scratch (generator, checker, solver). (1 week ago)
-- [coko7/boat-fleet](https://github.com/coko7/boat-fleet) - 🐚 A collection of shell scripts to augment the boat-cli (1 week ago)
 
 #### 🌱 My latest projects
 
+- [coko7/invoice2json](https://github.com/coko7/invoice2json) - 🧾 Extract structured JSON from invoices and receipts using a local Ollama vision model — no cloud APIs required.
 - [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday.
 - [coko7/memonde](https://github.com/coko7/memonde) - 🌍 Guess the maximum number of countries in the limited time.
-- [coko7/boat-fleet](https://github.com/coko7/boat-fleet) - 🐚 A collection of shell scripts to augment the boat-cli
 
 #### ⭐ Recent Stars
 
-- [pwnwriter/eipi.boo](https://github.com/pwnwriter/eipi.boo) - 🫶🏼 2d world/cards of anonymous confessions over ssh (5 days ago)
+- [Mindbaz/awesome-opensource-email](https://github.com/Mindbaz/awesome-opensource-email) - Awesome Opensource Email Resources (1 day ago)
+- [pwnwriter/eipi.boo](https://github.com/pwnwriter/eipi.boo) - 🫶🏼 2d world/cards of anonymous confessions over ssh (6 days ago)
 - [fairecasoimeme/Zlinky_TIC](https://github.com/fairecasoimeme/Zlinky_TIC) - Téléinformation Linky autoalimenté ZigBee 3.0 (1 week ago)
-- [ricott1/rebels-in-the-sky](https://github.com/ricott1/rebels-in-the-sky) - P2P terminal game about spacepirates playing basketball across the galaxy (1 week ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
