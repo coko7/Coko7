@@ -21,20 +21,20 @@ I love working in Linux and the terminal is where I spend most of my time.
 #### 👷 My active projects
 
 - [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (1 day ago)
-- [coko7/kyosabi](https://github.com/coko7/kyosabi) -  (1 day ago)
-- [coko7/invoice2json](https://github.com/coko7/invoice2json) - 🧾 Extract structured JSON from invoices and receipts using a local Ollama vision model — no cloud APIs required. (3 days ago)
+- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh (1 day ago)
+- [coko7/kyosabi](https://github.com/coko7/kyosabi) -  (2 days ago)
 
 #### 🌱 My latest projects
 
 - [coko7/kyosabi](https://github.com/coko7/kyosabi) - 
 - [coko7/invoice2json](https://github.com/coko7/invoice2json) - 🧾 Extract structured JSON from invoices and receipts using a local Ollama vision model — no cloud APIs required.
-- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday.
+- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh
 
 #### ⭐ Recent Stars
 
-- [Mindbaz/awesome-opensource-email](https://github.com/Mindbaz/awesome-opensource-email) - Awesome Opensource Email Resources (3 days ago)
+- [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows. (1 day ago)
+- [Mindbaz/awesome-opensource-email](https://github.com/Mindbaz/awesome-opensource-email) - Awesome Opensource Email Resources (4 days ago)
 - [pwnwriter/eipi.boo](https://github.com/pwnwriter/eipi.boo) - 🫶🏼 2d world/cards of anonymous confessions over ssh (1 week ago)
-- [fairecasoimeme/Zlinky_TIC](https://github.com/fairecasoimeme/Zlinky_TIC) - Téléinformation Linky autoalimenté ZigBee 3.0 (1 week ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
