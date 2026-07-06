@@ -20,21 +20,21 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh (2 days ago)
-- [coko7/kyosabi](https://github.com/coko7/kyosabi) - ☀️ Web GUI frontend for rustypaste with OpenID Connect SSO and optional client-side encryption. (2 days ago)
-- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (4 days ago)
+- [coko7/latuicon.nvim](https://github.com/coko7/latuicon.nvim) - 🎨 Neovim plugin for picking icons via latuicon TUI, inserted at cursor position. (1 day ago)
+- [coko7/watari](https://github.com/coko7/watari) - ☀️ Web GUI frontend for rustypaste with OpenID Connect SSO and optional client-side encryption. (1 day ago)
+- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh (3 days ago)
 
 #### 🌱 My latest projects
 
-- [coko7/kyosabi](https://github.com/coko7/kyosabi) - ☀️ Web GUI frontend for rustypaste with OpenID Connect SSO and optional client-side encryption.
+- [coko7/latuicon.nvim](https://github.com/coko7/latuicon.nvim) - 🎨 Neovim plugin for picking icons via latuicon TUI, inserted at cursor position.
+- [coko7/watari](https://github.com/coko7/watari) - ☀️ Web GUI frontend for rustypaste with OpenID Connect SSO and optional client-side encryption.
 - [coko7/invoice2json](https://github.com/coko7/invoice2json) - 🧾 Extract structured JSON from invoices and receipts using a local Ollama vision model — no cloud APIs required.
-- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh
 
 #### ⭐ Recent Stars
 
-- [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows. (4 days ago)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (1 day ago)
+- [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows. (5 days ago)
 - [Mindbaz/awesome-opensource-email](https://github.com/Mindbaz/awesome-opensource-email) - Awesome Opensource Email Resources (1 week ago)
-- [pwnwriter/eipi.boo](https://github.com/pwnwriter/eipi.boo) - 🫶🏼 2d world/cards of anonymous confessions over ssh (1 week ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
