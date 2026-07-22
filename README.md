@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh (1 day ago)
-- [coko7/sofle](https://github.com/coko7/sofle) - ⌨️ QMK config for my Sofle RGB keyboard. (2 days ago)
-- [coko7/zmk-config](https://github.com/coko7/zmk-config) - ⌨️ ZMK config for my 5-col crkbd with nice!view display keyboard. (3 days ago)
+- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh (2 days ago)
+- [coko7/sofle](https://github.com/coko7/sofle) - ⌨️ QMK config for my Sofle RGB keyboard. (3 days ago)
+- [coko7/zmk-config](https://github.com/coko7/zmk-config) - ⌨️ ZMK config for my 5-col crkbd with nice!view display keyboard. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire (1 day ago)
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world (1 day ago)
-- [Turbootzz/Nimbus](https://github.com/Turbootzz/Nimbus) - Open-source customizable homelab dashboard (4 days ago)
+- [SeineEloquenz/fosswallet](https://github.com/SeineEloquenz/fosswallet) - FOSS .pkpass wallet in Material Design 3 (1 day ago)
+- [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire (2 days ago)
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
