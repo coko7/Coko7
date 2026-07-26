@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh (2 days ago)
-- [coko7/sofle](https://github.com/coko7/sofle) - ⌨️ QMK config for my Sofle RGB keyboard. (3 days ago)
-- [coko7/zmk-config](https://github.com/coko7/zmk-config) - ⌨️ ZMK config for my 5-col crkbd with nice!view display keyboard. (4 days ago)
+- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (1 day ago)
+- [ProHaller/xp-macroquad](https://github.com/ProHaller/xp-macroquad) - Test game using the macroquad crate (2 days ago)
+- [coko7/somfy-home-controller](https://github.com/coko7/somfy-home-controller) - 🏠 Simple Node app to automatically control your Somfy shutters based on your local day cycle. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [SeineEloquenz/fosswallet](https://github.com/SeineEloquenz/fosswallet) - FOSS .pkpass wallet in Material Design 3 (1 day ago)
-- [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire (2 days ago)
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world (2 days ago)
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers. (today)
+- [MalboxSandbox/malbox](https://github.com/MalboxSandbox/malbox) - Extensible, open-source solution for automated file sandboxing and analysis written in Rust (today)
+- [Vaishnav-Sabari-Girish/miru](https://github.com/Vaishnav-Sabari-Girish/miru) - Wayland-native zooming daemon for streamers (today)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
