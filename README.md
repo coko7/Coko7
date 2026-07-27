@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
+- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (today)
 - [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (2 days ago)
 - [ProHaller/xp-macroquad](https://github.com/ProHaller/xp-macroquad) - Test game using the macroquad crate (3 days ago)
-- [coko7/somfy-home-controller](https://github.com/coko7/somfy-home-controller) - 🏠 Simple Node app to automatically control your Somfy shutters based on your local day cycle. (4 days ago)
 
 #### 🌱 My latest projects
 
