@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
+- [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended) - Dynamically generate GitHub stats for your READMEs. (today)
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers. (1 day ago)
 - [MalboxSandbox/malbox](https://github.com/MalboxSandbox/malbox) - Extensible, open-source solution for automated file sandboxing and analysis written in Rust (1 day ago)
-- [Vaishnav-Sabari-Girish/miru](https://github.com/Vaishnav-Sabari-Girish/miru) - Wayland-native zooming daemon for streamers (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
