@@ -24,7 +24,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&bg_color=00000000&title_color=51aeddff&text_color=ffffffff&icon_color=51aeddff&hide_border=true&card_width=200px
+          options: username=${{ github.repository_owner }}&show_icons=true&bg_color=00000000&title_color=51aeddff&text_color=ffffffff&icon_color=51aeddff&hide_border=true
           path: images/grs-user-stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -32,7 +32,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&bg_color=00000000&title_color=51aeddff&text_color=000000ff&icon_color=51aeddff&hide_border=true&card_width=200px
+          options: username=${{ github.repository_owner }}&show_icons=true&bg_color=00000000&title_color=51aeddff&text_color=000000ff&icon_color=51aeddff&hide_border=true
           path: images/grs-user-stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
