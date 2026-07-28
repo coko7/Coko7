@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (today)
-- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (2 days ago)
-- [ProHaller/xp-macroquad](https://github.com/ProHaller/xp-macroquad) - Test game using the macroquad crate (3 days ago)
+- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (1 day ago)
+- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (1 day ago)
+- [ProHaller/xp-macroquad](https://github.com/ProHaller/xp-macroquad) - Test game using the macroquad crate (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended) - Dynamically generate GitHub stats for your READMEs. (today)
-- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers. (1 day ago)
-- [MalboxSandbox/malbox](https://github.com/MalboxSandbox/malbox) - Extensible, open-source solution for automated file sandboxing and analysis written in Rust (1 day ago)
+- [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended) - Dynamically generate GitHub stats for your READMEs. (1 day ago)
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers. (2 days ago)
+- [MalboxSandbox/malbox](https://github.com/MalboxSandbox/malbox) - Extensible, open-source solution for automated file sandboxing and analysis written in Rust (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
