@@ -20,21 +20,21 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (1 day ago)
-- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (1 day ago)
-- [ProHaller/xp-macroquad](https://github.com/ProHaller/xp-macroquad) - Test game using the macroquad crate (4 days ago)
+- [coko7/tty-blog](https://github.com/coko7/tty-blog) - ✍️ Source code for my zola blog (The Terminal Yard)  (1 day ago)
+- [coko7/memonde](https://github.com/coko7/memonde) - 🌍 Guess the maximum number of countries in the limited time. (1 day ago)
+- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 day ago)
 
 #### 🌱 My latest projects
 
+- [coko7/tty-blog](https://github.com/coko7/tty-blog) - ✍️ Source code for my zola blog (The Terminal Yard) 
 - [coko7/zmk-config](https://github.com/coko7/zmk-config) - ⌨️ ZMK config for my 5-col crkbd with nice!view display keyboard.
 - [coko7/archy-factory](https://github.com/coko7/archy-factory) - 🏗️ Automated Arch Linux install factory — spin up VMs and bootstrap unattended archinstall setups via a one-line curl script.
-- [coko7/latuicon.nvim](https://github.com/coko7/latuicon.nvim) - 😴 Neovim plugin for picking icons via latuicon TUI, inserted at cursor position.
 
 #### ⭐ Recent Stars
 
-- [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended) - Dynamically generate GitHub stats for your READMEs. (1 day ago)
-- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers. (2 days ago)
-- [MalboxSandbox/malbox](https://github.com/MalboxSandbox/malbox) - Extensible, open-source solution for automated file sandboxing and analysis written in Rust (2 days ago)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (1 day ago)
+- [mvdicarlo/postybirb](https://github.com/mvdicarlo/postybirb) - PostyBirb is an application that helps artists post art and other multimedia to multiple websites more quickly. The overall goal of PostyBirb is to cut down on the time it takes to post submissions to multiple websites. (1 day ago)
+- [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative) (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
