@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
+- [coko7/memonde](https://github.com/coko7/memonde) - 🌍 Guess the maximum number of countries in the limited time. (1 day ago)
 - [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 day ago)
-- [coko7/tty-blog](https://github.com/coko7/tty-blog) - ✍️ Source code for my zola blog (The Terminal Yard)  (2 days ago)
-- [coko7/memonde](https://github.com/coko7/memonde) - 🌍 Guess the maximum number of countries in the limited time. (2 days ago)
+- [coko7/tty-blog](https://github.com/coko7/tty-blog) - ✍️ Source code for my zola blog (The Terminal Yard)  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [T3-Content/unduck](https://github.com/T3-Content/unduck) - A fast, local-first &#34;search engine&#34; for !bang users (1 day ago)
-- [Church-of-Templeos/TOOM](https://github.com/Church-of-Templeos/TOOM) - A TempleOS source port of the DOOM engine (1 day ago)
-- [patonw/leaves](https://github.com/patonw/leaves) - A text-mode disk usage visualization utility (1 day ago)
+- [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows. (1 day ago)
+- [MordechaiHadad/vinyl-lang](https://github.com/MordechaiHadad/vinyl-lang) - Vinyly a good language (1 day ago)
+- [T3-Content/unduck](https://github.com/T3-Content/unduck) - A fast, local-first &#34;search engine&#34; for !bang users (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
