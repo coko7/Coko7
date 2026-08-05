@@ -20,21 +20,21 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh (4 days ago)
-- [coko7/memonde](https://github.com/coko7/memonde) - 🌍 Guess the maximum number of countries in the limited time. (4 days ago)
-- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (5 days ago)
+- [coko7/tuiss](https://github.com/coko7/tuiss) - 🌐 TUI for managing IIS sites via appcmd, built in Rust with ratatui (1 day ago)
+- [coko7/huco705-archive](https://github.com/coko7/huco705-archive) - 🔐 Archive repo for my my first computer program ever (1 day ago)
+- [rtfw-rs/rtfw-huco705-rs](https://github.com/rtfw-rs/rtfw-huco705-rs) - 🔐 A rewrite of the huco705 cipher (originally written in C&#43;&#43;) (1 day ago)
 
 #### 🌱 My latest projects
 
+- [coko7/tuiss](https://github.com/coko7/tuiss) - 🌐 TUI for managing IIS sites via appcmd, built in Rust with ratatui
 - [coko7/tty-blog](https://github.com/coko7/tty-blog) - ✍️ Source code for my zola blog (The Terminal Yard) 
 - [coko7/zmk-config](https://github.com/coko7/zmk-config) - ⌨️ ZMK config for my 5-col crkbd with nice!view display keyboard.
-- [coko7/archy-factory](https://github.com/coko7/archy-factory) - 🏗️ Automated Arch Linux install factory — spin up VMs and bootstrap unattended archinstall setups via a one-line curl script.
 
 #### ⭐ Recent Stars
 
-- [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant (2 days ago)
-- [aclfe/inertia](https://github.com/aclfe/inertia) - A physics sandbox that runs in your terminal: rigid bodies, n-body gravity, cloth, and fluid, projected in 3D onto braille with no GPU. (4 days ago)
-- [jxdones/marten](https://github.com/jxdones/marten) - A terminal diff viewer for reviewing your work before it becomes a commit or pull request. (4 days ago)
+- [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.  (1 day ago)
+- [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting) - Adaptive Lighting custom component for Home Assistant (3 days ago)
+- [aclfe/inertia](https://github.com/aclfe/inertia) - A physics sandbox that runs in your terminal: rigid bodies, n-body gravity, cloth, and fluid, projected in 3D onto braille with no GPU. (5 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
