@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/huco705-archive](https://github.com/coko7/huco705-archive) - 🔐 Archive repo for my my first computer program ever (4 days ago)
-- [rtfw-rs/rtfw-huco705-rs](https://github.com/rtfw-rs/rtfw-huco705-rs) - 🔐 A rewrite of the huco705 cipher (originally written in C&#43;&#43;) (4 days ago)
-- [coko7/tuiss](https://github.com/coko7/tuiss) - 🌐 TUI for managing IIS sites via appcmd, built in Rust with ratatui (4 days ago)
+- [coko7/huco705-archive](https://github.com/coko7/huco705-archive) - 🔐 Archive repo for my my first computer program ever (5 days ago)
+- [rtfw-rs/rtfw-huco705-rs](https://github.com/rtfw-rs/rtfw-huco705-rs) - 🔐 A rewrite of the huco705 cipher (originally written in C&#43;&#43;) (5 days ago)
+- [coko7/tuiss](https://github.com/coko7/tuiss) - 🌐 TUI for managing IIS sites via appcmd, built in Rust with ratatui (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (1 day ago)
-- [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects. (1 day ago)
-- [doukutsu-rs/doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of Cave Story&#39;s engine written in Rust (1 day ago)
+- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (2 days ago)
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects. (2 days ago)
+- [doukutsu-rs/doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of Cave Story&#39;s engine written in Rust (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
