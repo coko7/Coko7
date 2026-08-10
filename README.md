@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/huco705-archive](https://github.com/coko7/huco705-archive) - 🔐 Archive repo for my my first computer program ever (5 days ago)
-- [rtfw-rs/rtfw-huco705-rs](https://github.com/rtfw-rs/rtfw-huco705-rs) - 🔐 A rewrite of the huco705 cipher (originally written in C&#43;&#43;) (5 days ago)
-- [coko7/tuiss](https://github.com/coko7/tuiss) - 🌐 TUI for managing IIS sites via appcmd, built in Rust with ratatui (5 days ago)
+- [coko7/huco705-archive](https://github.com/coko7/huco705-archive) - 🔐 Archive repo for my my first computer program ever (6 days ago)
+- [coko7/tuiss](https://github.com/coko7/tuiss) - 🌐 TUI for managing IIS sites via appcmd, built in Rust with ratatui (6 days ago)
+- [rtfw-rs/rtfw-huco705-rs](https://github.com/rtfw-rs/rtfw-huco705-rs) - 🔐 A rewrite of the huco705 cipher (originally written in C&#43;&#43;) (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (2 days ago)
-- [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects. (2 days ago)
-- [doukutsu-rs/doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) - A faithful and open-source remake of Cave Story&#39;s engine written in Rust (2 days ago)
+- [Freika/dawarich](https://github.com/Freika/dawarich) - Your favorite self-hostable alternative to Google Timeline (Google Location History) (1 day ago)
+- [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React &amp; node.js (1 day ago)
+- [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript . (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
