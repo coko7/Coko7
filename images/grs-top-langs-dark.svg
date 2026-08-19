@@ -140,7 +140,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 12.49%
+        C# 12.48%
       </text>
     </g>
   </g><g transform="translate(0, 96)">
@@ -187,8 +187,8 @@
        <g class="stagger" style="animation-delay: 800ms">
         <path
           data-testid="lang-donut"
-          size="12.49"
-          d="M 66.16953990956864 85.93985103410404 A 50 50 0 0 0 61.98531571615285 123.94955530196145"
+          size="12.48"
+          d="M 66.15443112490199 85.9673952718596 A 50 50 0 0 0 61.98531571615285 123.94955530196145"
           stroke="#178600"
           fill="none"
           stroke-width="12">
@@ -199,7 +199,7 @@
         <path
           data-testid="lang-donut"
           size="11.03"
-          d="M 91.65220646291452 63.48808246996815 A 50 50 0 0 0 66.16953990956864 85.93985103410404"
+          d="M 91.62298578686324 63.49961990897096 A 50 50 0 0 0 66.15443112490199 85.9673952718596"
           stroke="#f1e05a"
           fill="none"
           stroke-width="12">
@@ -210,7 +210,7 @@
         <path
           data-testid="lang-donut"
           size="5.99"
-          d="M 110.03141592446882 60.00000986960408 A 50 50 0 0 0 91.65220646291452 63.48808246996815"
+          d="M 110.00000000000003 60 A 50 50 0 0 0 91.62298578686324 63.49961990897096"
           stroke="#000080"
           fill="none"
           stroke-width="12">
