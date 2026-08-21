@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (1 day ago)
-- [coko7/watari](https://github.com/coko7/watari) - ☕ Web GUI frontend for rustypaste with OpenID Connect SSO and optional client-side encryption. (2 days ago)
-- [coko7/f-win](https://github.com/coko7/f-win) - 🤬 A handy script to &#34;fix&#34; Windows by installing decent CLIs and apps (1 week ago)
+- [coko7/boat-fleet](https://github.com/coko7/boat-fleet) - 🐚 A collection of shell scripts to augment the boat-cli (1 day ago)
+- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (2 days ago)
+- [coko7/watari](https://github.com/coko7/watari) - ☕ Web GUI frontend for rustypaste with OpenID Connect SSO and optional client-side encryption. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [EvanZhouDev/cubecode](https://github.com/EvanZhouDev/cubecode) - Store data on Rubik&#39;s cubes (4 days ago)
-- [geohot/fromthetransistor](https://github.com/geohot/fromthetransistor) - From the Transistor to the Web Browser, a rough outline for a 12 week course (4 days ago)
-- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (6 days ago)
+- [EvanZhouDev/cubecode](https://github.com/EvanZhouDev/cubecode) - Store data on Rubik&#39;s cubes (5 days ago)
+- [geohot/fromthetransistor](https://github.com/geohot/fromthetransistor) - From the Transistor to the Web Browser, a rough outline for a 12 week course (5 days ago)
+- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (1 week ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
