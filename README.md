@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (1 day ago)
-- [coko7/boat-fleet](https://github.com/coko7/boat-fleet) - 🐚 A collection of shell scripts to augment the boat-cli (2 days ago)
-- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (3 days ago)
+- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (2 days ago)
+- [coko7/boat-fleet](https://github.com/coko7/boat-fleet) - 🐚 A collection of shell scripts to augment the boat-cli (3 days ago)
+- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [UgurcanAkkok/AreWeRustYet](https://github.com/UgurcanAkkok/AreWeRustYet) - Awesome list of &#34;Are We *thing* Yet&#34; for Rust (1 day ago)
-- [TheCardGoat/tcg-engines](https://github.com/TheCardGoat/tcg-engines) - Typescript implementation of TCG rules (1 day ago)
-- [EvanZhouDev/cubecode](https://github.com/EvanZhouDev/cubecode) - Store data on Rubik&#39;s cubes (6 days ago)
+- [UgurcanAkkok/AreWeRustYet](https://github.com/UgurcanAkkok/AreWeRustYet) - Awesome list of &#34;Are We *thing* Yet&#34; for Rust (2 days ago)
+- [TheCardGoat/tcg-engines](https://github.com/TheCardGoat/tcg-engines) - Typescript implementation of TCG rules (2 days ago)
+- [EvanZhouDev/cubecode](https://github.com/EvanZhouDev/cubecode) - Store data on Rubik&#39;s cubes (1 week ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
