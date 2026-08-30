@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/latuicon.nvim](https://github.com/coko7/latuicon.nvim) - 😴 Neovim plugin for picking icons via latuicon TUI, inserted at cursor position. (1 day ago)
-- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh (2 days ago)
-- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (1 week ago)
+- [terminalcollective/website](https://github.com/terminalcollective/website) -  (1 day ago)
+- [coko7/tty-blog](https://github.com/coko7/tty-blog) - ✍️ Source code for my zola blog (The Terminal Yard)  (1 day ago)
+- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust (2 days ago)
-- [readytotouch/readytotouch](https://github.com/readytotouch/readytotouch) - A platform for simplifying job search (4 days ago)
-- [UgurcanAkkok/AreWeRustYet](https://github.com/UgurcanAkkok/AreWeRustYet) - Awesome list of &#34;Are We *thing* Yet&#34; for Rust (1 week ago)
+- [terminalcollective/terminal-tuesdays-editing](https://github.com/terminalcollective/terminal-tuesdays-editing) -  (1 day ago)
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes (1 day ago)
+- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust (3 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
