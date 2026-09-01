@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/expense-report](https://github.com/coko7/expense-report) - 🧾 Generate Excel reports from PDF invoices (1 day ago)
-- [coko7/huco705-archive](https://github.com/coko7/huco705-archive) - 🔐 Archive repo for my my first computer program ever (1 day ago)
-- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh (1 day ago)
+- [coko7/expense-report](https://github.com/coko7/expense-report) - 🧾 Generate Excel reports from PDF invoices (2 days ago)
+- [coko7/huco705-archive](https://github.com/coko7/huco705-archive) - 🔐 Archive repo for my my first computer program ever (2 days ago)
+- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (1 day ago)
-- [terminalcollective/terminal-tuesdays-editing](https://github.com/terminalcollective/terminal-tuesdays-editing) -  (2 days ago)
-- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes (2 days ago)
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (2 days ago)
+- [terminalcollective/terminal-tuesdays-editing](https://github.com/terminalcollective/terminal-tuesdays-editing) -  (3 days ago)
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes (3 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
