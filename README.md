@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 day ago)
-- [terminalcollective/website](https://github.com/terminalcollective/website) -  (3 days ago)
-- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh (5 days ago)
+- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (2 days ago)
+- [terminalcollective/website](https://github.com/terminalcollective/website) -  (4 days ago)
+- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,8 +32,8 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and Big Headers™ (2 days ago)
-- [bhamrick/multitwitch](https://github.com/bhamrick/multitwitch) - Multiple twitch streams on one page (2 days ago)
+- [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and Big Headers™ (3 days ago)
+- [bhamrick/multitwitch](https://github.com/bhamrick/multitwitch) - Multiple twitch streams on one page (3 days ago)
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (1 week ago)
 
 <picture>
