@@ -20,8 +20,8 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
+- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 day ago)
 - [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh (1 week ago)
-- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 week ago)
 - [terminalcollective/website](https://github.com/terminalcollective/website) -  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43; (2 days ago)
-- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk (2 days ago)
-- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install. (2 days ago)
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43; (3 days ago)
+- [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk (3 days ago)
+- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install. (3 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
