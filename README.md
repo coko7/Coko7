@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh (1 day ago)
-- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (2 days ago)
-- [coko7/boat](https://github.com/coko7/boat) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (5 days ago)
+- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh (2 days ago)
+- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (3 days ago)
+- [coko7/boat](https://github.com/coko7/boat) - ⛵ Basic Opinionated Activity Tracker, a command line interface inspired by bartib.  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue &#43; Typescript. (1 day ago)
-- [tejaswigowda/ffmpeg-webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI) - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly. (1 day ago)
-- [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/greater alternatives to common UNIX commands, which is maintained. (1 day ago)
+- [kmscon/kmscon](https://github.com/kmscon/kmscon) - Linux KMS/DRM based virtual Console Emulator (1 day ago)
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue &#43; Typescript. (2 days ago)
+- [tejaswigowda/ffmpeg-webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI) - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly. (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
