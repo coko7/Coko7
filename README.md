@@ -20,21 +20,21 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/fwin](https://github.com/coko7/fwin) - 🤬 A handy script to &#34;fix&#34; Windows by installing decent CLIs and apps (1 day ago)
-- [coko7/archy-factory](https://github.com/coko7/archy-factory) - 🏗️ Automated Arch Linux install factory — spin up VMs and bootstrap unattended archinstall setups via a one-line curl script. (2 days ago)
-- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh (4 days ago)
+- [coko7/lifeping](https://github.com/coko7/lifeping) - 💓 Tiny self-hosted &#34;am I alive?&#34; page. Send a ping from a device so that your loved ones know you are alive and kicking. (1 day ago)
+- [coko7/fwin](https://github.com/coko7/fwin) - 🤬 A handy script to &#34;fix&#34; Windows by installing decent CLIs and apps (2 days ago)
+- [coko7/archy-factory](https://github.com/coko7/archy-factory) - 🏗️ Automated Arch Linux install factory — spin up VMs and bootstrap unattended archinstall setups via a one-line curl script. (3 days ago)
 
 #### 🌱 My latest projects
 
+- [coko7/lifeping](https://github.com/coko7/lifeping) - 💓 Tiny self-hosted &#34;am I alive?&#34; page. Send a ping from a device so that your loved ones know you are alive and kicking.
 - [coko7/tuiss](https://github.com/coko7/tuiss) - 🌐 TUI for managing IIS sites via appcmd, built in Rust with ratatui
 - [coko7/tty-blog](https://github.com/coko7/tty-blog) - ✍️ Source code for my zola blog (The Terminal Yard) 
-- [coko7/zmk-config](https://github.com/coko7/zmk-config) - ⌨️ ZMK config for my 5-col crkbd with nice!view display keyboard.
 
 #### ⭐ Recent Stars
 
-- [kmscon/kmscon](https://github.com/kmscon/kmscon) - Linux KMS/DRM based virtual Console Emulator (3 days ago)
-- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue &#43; Typescript. (4 days ago)
-- [tejaswigowda/ffmpeg-webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI) - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly. (4 days ago)
+- [kmscon/kmscon](https://github.com/kmscon/kmscon) - Linux KMS/DRM based virtual Console Emulator (4 days ago)
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue &#43; Typescript. (5 days ago)
+- [tejaswigowda/ffmpeg-webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI) - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly. (5 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
