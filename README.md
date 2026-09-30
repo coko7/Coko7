@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/lifeping](https://github.com/coko7/lifeping) - 💓 Tiny self-hosted &#34;am I alive?&#34; page. Send a ping from a device so that your loved ones know you are alive and kicking. (3 days ago)
-- [coko7/fwin](https://github.com/coko7/fwin) - 🤬 A handy script to &#34;fix&#34; Windows by installing decent CLIs and apps (4 days ago)
-- [coko7/archy-factory](https://github.com/coko7/archy-factory) - 🏗️ Automated Arch Linux install factory — spin up VMs and bootstrap unattended archinstall setups via a one-line curl script. (5 days ago)
+- [coko7/archy-factory](https://github.com/coko7/archy-factory) - 🏗️ Automated Arch Linux install factory — spin up VMs and bootstrap unattended archinstall setups via a one-line curl script. (1 day ago)
+- [coko7/lifeping](https://github.com/coko7/lifeping) - 💓 Tiny self-hosted &#34;am I alive?&#34; page. Send a ping from a device so that your loved ones know you are alive and kicking. (4 days ago)
+- [coko7/fwin](https://github.com/coko7/fwin) - 🤬 A handy script to &#34;fix&#34; Windows by installing decent CLIs and apps (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [kmscon/kmscon](https://github.com/kmscon/kmscon) - Linux KMS/DRM based virtual Console Emulator (6 days ago)
+- [kmscon/kmscon](https://github.com/kmscon/kmscon) - Linux KMS/DRM based virtual Console Emulator (1 week ago)
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue &#43; Typescript. (1 week ago)
 - [tejaswigowda/ffmpeg-webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI) - A browser-based video editor powered by ffmpeg.wasm. No uploads, no servers -- all processing happens locally in your browser using WebAssembly. (1 week ago)
 
