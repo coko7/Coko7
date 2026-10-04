@@ -20,8 +20,8 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/lifeping](https://github.com/coko7/lifeping) - 💓 Tiny self-hosted &#34;am I alive?&#34; page. Send a ping from a device so that your loved ones know you are alive and kicking. (3 days ago)
-- [coko7/archy-factory](https://github.com/coko7/archy-factory) - 🏗️ Automated Arch Linux install factory — spin up VMs and bootstrap unattended archinstall setups via a one-line curl script. (4 days ago)
+- [coko7/lifeping](https://github.com/coko7/lifeping) - 💓 Tiny self-hosted &#34;am I alive?&#34; page. Send a ping from a device so that your loved ones know you are alive and kicking. (4 days ago)
+- [coko7/archy-factory](https://github.com/coko7/archy-factory) - 🏗️ Automated Arch Linux install factory — spin up VMs and bootstrap unattended archinstall setups via a one-line curl script. (5 days ago)
 - [coko7/fwin](https://github.com/coko7/fwin) - 🤬 A handy script to &#34;fix&#34; Windows by installing decent CLIs and apps (1 week ago)
 
 #### 🌱 My latest projects
@@ -32,8 +32,8 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell. kew is a fast, immersive music player that allows you to listen to music privately. (1 day ago)
-- [mierak/rmpc](https://github.com/mierak/rmpc) - A modern, configurable, terminal based MPD Client with album art support via various terminal image protocols (1 day ago)
+- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell. kew is a fast, immersive music player that allows you to listen to music privately. (2 days ago)
+- [mierak/rmpc](https://github.com/mierak/rmpc) - A modern, configurable, terminal based MPD Client with album art support via various terminal image protocols (2 days ago)
 - [kmscon/kmscon](https://github.com/kmscon/kmscon) - Linux KMS/DRM based virtual Console Emulator (1 week ago)
 
 <picture>
