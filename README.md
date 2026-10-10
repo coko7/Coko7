@@ -20,21 +20,21 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/fwin](https://github.com/coko7/fwin) - 🤬 A handy script to &#34;fix&#34; Windows by installing decent CLIs and apps (2 days ago)
-- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (2 days ago)
-- [coko7/kanumi](https://github.com/coko7/kanumi) - 🎨 Manage collection of images from your terminal (3 days ago)
+- [coko7/vegapull](https://github.com/coko7/vegapull) - 👒 One Piece TCG data scraper written in Rust (1 day ago)
+- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 day ago)
+- [coko7/inumaki](https://github.com/coko7/inumaki) - 🗣️ Control your Linux desktop with your voice, fully offline. (1 day ago)
 
 #### 🌱 My latest projects
 
+- [coko7/inumaki](https://github.com/coko7/inumaki) - 🗣️ Control your Linux desktop with your voice, fully offline.
 - [coko7/lifeping](https://github.com/coko7/lifeping) - 💓 Tiny self-hosted &#34;am I alive?&#34; page. Send a ping from a device so that your loved ones know you are alive and kicking.
 - [coko7/tuiss](https://github.com/coko7/tuiss) - 🌐 TUI for managing IIS sites via appcmd, built in Rust with ratatui
-- [coko7/tty-blog](https://github.com/coko7/tty-blog) - ✍️ Source code for my zola blog (The Terminal Yard) 
 
 #### ⭐ Recent Stars
 
+- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust (1 day ago)
 - [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell. kew is a fast, immersive music player that allows you to listen to music privately. (1 week ago)
 - [mierak/rmpc](https://github.com/mierak/rmpc) - A modern, configurable, terminal based MPD Client with album art support via various terminal image protocols (1 week ago)
-- [kmscon/kmscon](https://github.com/kmscon/kmscon) - Linux KMS/DRM based virtual Console Emulator (2 weeks ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
