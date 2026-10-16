@@ -21,8 +21,8 @@ I love working in Linux and the terminal is where I spend most of my time.
 #### 👷 My active projects
 
 - [coko7/inumaki](https://github.com/coko7/inumaki) - 🗣️ Control your Linux desktop with your voice, fully offline. (1 day ago)
-- [coko7/tuxtrivia](https://github.com/coko7/tuxtrivia) - 🐧 Web trivia game about famous computer scientists. Built with Rust &#43; Leptos (WASM) frontend. (2 days ago)
-- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (6 days ago)
+- [coko7/tuxtrivia](https://github.com/coko7/tuxtrivia) - 🐧 Web trivia game about famous computer scientists. Built with Rust &#43; Leptos (WASM) frontend. (1 day ago)
+- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [NathanRoyer/hop-editor](https://github.com/NathanRoyer/hop-editor) - terminal code editor (1 day ago)
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (6 days ago)
-- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell. kew is a fast, immersive music player that allows you to listen to music privately. (1 week ago)
+- [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects (1 day ago)
+- [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more! (1 day ago)
+- [NathanRoyer/hop-editor](https://github.com/NathanRoyer/hop-editor) - terminal code editor (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
