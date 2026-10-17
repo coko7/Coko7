@@ -20,21 +20,21 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/inumaki](https://github.com/coko7/inumaki) - 🗣️ Control your Linux desktop with your voice, fully offline. (1 day ago)
-- [coko7/tuxtrivia](https://github.com/coko7/tuxtrivia) - 🐧 Web trivia game about famous computer scientists. Built with Rust &#43; Leptos (WASM) frontend. (1 day ago)
-- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 week ago)
+- [coko7/nvim-config-fs](https://github.com/coko7/nvim-config-fs) - 🚀 My config for nvim 0.12.* remade from scratch and de-bloated (1 day ago)
+- [coko7/inumaki](https://github.com/coko7/inumaki) - 🗣️ Control your Linux desktop with your voice, fully offline. (2 days ago)
+- [coko7/tuxtrivia](https://github.com/coko7/tuxtrivia) - 🐧 Web trivia game about famous computer scientists. Built with Rust &#43; Leptos (WASM) frontend. (2 days ago)
 
 #### 🌱 My latest projects
 
+- [coko7/nvim-config-fs](https://github.com/coko7/nvim-config-fs) - 🚀 My config for nvim 0.12.* remade from scratch and de-bloated
 - [coko7/tuxtrivia](https://github.com/coko7/tuxtrivia) - 🐧 Web trivia game about famous computer scientists. Built with Rust &#43; Leptos (WASM) frontend.
 - [coko7/inumaki](https://github.com/coko7/inumaki) - 🗣️ Control your Linux desktop with your voice, fully offline.
-- [coko7/lifeping](https://github.com/coko7/lifeping) - 💓 Tiny self-hosted &#34;am I alive?&#34; page. Send a ping from a device so that your loved ones know you are alive and kicking.
 
 #### ⭐ Recent Stars
 
-- [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects (1 day ago)
-- [HalFrgrd/flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more! (1 day ago)
-- [NathanRoyer/hop-editor](https://github.com/NathanRoyer/hop-editor) - terminal code editor (2 days ago)
+- [tsprlng/pi-pico-usb-keyboard-circuitpython](https://github.com/tsprlng/pi-pico-usb-keyboard-circuitpython) - USB keyboard implementation with layers, for the Raspberry Pi Pico, in CircuitPython (1 day ago)
+- [tsprlng/pi-pico-usb-keyboard-rust](https://github.com/tsprlng/pi-pico-usb-keyboard-rust) - USB keyboard implementation with layers, for the Raspberry Pi Pico, in Rust / Embassy (1 day ago)
+- [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust&#39;s mid-level intermediate representation (1 day ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
