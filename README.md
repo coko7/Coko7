@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 day ago)
-- [coko7/nvim-config-fs](https://github.com/coko7/nvim-config-fs) - 🚀 My config for nvim 0.12.* remade from scratch and de-bloated (2 days ago)
-- [coko7/tuxtrivia](https://github.com/coko7/tuxtrivia) - 🐧 Web trivia game about famous computer scientists. Built with Rust &#43; Leptos (WASM) frontend. (3 days ago)
+- [coko7/nvim-config-fs](https://github.com/coko7/nvim-config-fs) - 🚀 My config for nvim 0.12.* remade from scratch and de-bloated (1 day ago)
+- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (2 days ago)
+- [coko7/tuxtrivia](https://github.com/coko7/tuxtrivia) - 🐧 Web trivia game about famous computer scientists. Built with Rust &#43; Leptos (WASM) frontend. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [tsprlng/pi-pico-usb-keyboard-circuitpython](https://github.com/tsprlng/pi-pico-usb-keyboard-circuitpython) - USB keyboard implementation with layers, for the Raspberry Pi Pico, in CircuitPython (2 days ago)
-- [tsprlng/pi-pico-usb-keyboard-rust](https://github.com/tsprlng/pi-pico-usb-keyboard-rust) - USB keyboard implementation with layers, for the Raspberry Pi Pico, in Rust / Embassy (2 days ago)
-- [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust&#39;s mid-level intermediate representation (2 days ago)
+- [rohit267/net-merge](https://github.com/rohit267/net-merge) - Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN &#43; Wintun) (1 day ago)
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. (1 day ago)
+- [tsprlng/pi-pico-usb-keyboard-circuitpython](https://github.com/tsprlng/pi-pico-usb-keyboard-circuitpython) - USB keyboard implementation with layers, for the Raspberry Pi Pico, in CircuitPython (3 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
