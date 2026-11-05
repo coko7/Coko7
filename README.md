@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [vitosans/rail](https://github.com/vitosans/rail) - A modern terminal mail client for Gmail and Microsoft 365, with an MCP server for AI agents (1 day ago)
-- [coko7/memonde](https://github.com/coko7/memonde) - 🌍 Guess the maximum number of countries in the limited time. (1 day ago)
-- [coko7/osomty](https://github.com/coko7/osomty) - 🗺️ Terminal map browser for OpenStreetMap. (5 days ago)
+- [coko7/fwin](https://github.com/coko7/fwin) - 🤬 A handy script to &#34;fix&#34; Windows by installing decent CLIs and apps (1 day ago)
+- [vitosans/rail](https://github.com/vitosans/rail) - A modern terminal mail client for Gmail and Microsoft 365, with an MCP server for AI agents (2 days ago)
+- [coko7/memonde](https://github.com/coko7/memonde) - 🌍 Guess the maximum number of countries in the limited time. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [vitosans/rail](https://github.com/vitosans/rail) - A modern terminal mail client for Gmail and Microsoft 365, with an MCP server for AI agents (2 days ago)
+- [vitosans/rail](https://github.com/vitosans/rail) - A modern terminal mail client for Gmail and Microsoft 365, with an MCP server for AI agents (3 days ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 week ago)
 - [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update) - A cargo subcommand for checking and applying updates to installed executables (1 week ago)
 
