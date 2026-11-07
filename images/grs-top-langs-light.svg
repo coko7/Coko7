@@ -141,7 +141,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 18.82%
+        Shell 18.83%
       </text>
     </g>
   </g><g transform="translate(0, 64)">
@@ -173,8 +173,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="54.93"
-          d="M 94.75844730213441 157.62032204173116 A 50 50 0 1 0 110 60"
+          size="54.92"
+          d="M 94.78837103950508 157.62988919122353 A 50 50 0 1 0 110 60"
           stroke="#dea584"
           fill="none"
           stroke-width="12">
@@ -184,8 +184,8 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="18.82"
-          d="M 60.1541333133436 113.92295478639225 A 50 50 0 0 0 94.75844730213441 157.62032204173116"
+          size="18.83"
+          d="M 60.1541333133436 113.92295478639225 A 50 50 0 0 0 94.78837103950508 157.62988919122353"
           stroke="#89e051"
           fill="none"
           stroke-width="12">
