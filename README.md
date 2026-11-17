@@ -20,9 +20,9 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [terminalcollective/feed-the-rat](https://github.com/terminalcollective/feed-the-rat) - 🧀 Tiny helper that listens to RSS feeds and POSTs to Discord via webhooks. (2 days ago)
-- [coko7/watari](https://github.com/coko7/watari) - ☕ Web GUI frontend for rustypaste with OpenID Connect SSO and optional client-side encryption. (3 days ago)
-- [coko7/fwin](https://github.com/coko7/fwin) - 🤬 A handy script to &#34;fix&#34; Windows by installing decent CLIs and apps (4 days ago)
+- [coko7/archy-factory](https://github.com/coko7/archy-factory) - 🏗️ Automated Arch Linux install factory — spin up VMs and bootstrap unattended archinstall setups via a one-line curl script. (1 day ago)
+- [coko7/watari](https://github.com/coko7/watari) - ☕ Web GUI frontend for rustypaste with OpenID Connect SSO and optional client-side encryption. (1 day ago)
+- [terminalcollective/feed-the-rat](https://github.com/terminalcollective/feed-the-rat) - 🧀 Tiny helper that listens to RSS feeds and POSTs to Discord via webhooks. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### ⭐ Recent Stars
 
-- [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS (1 day ago)
+- [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS (2 days ago)
 - [CookieMonsterTeam/CookieMonster](https://github.com/CookieMonsterTeam/CookieMonster) - Addon for Cookie Clicker that offers a wide range of tools and statistics to enhance the game (1 week ago)
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Natural-language text calculator with TUI/CLI: variables, units, currencies, and live exchange rates (1 week ago)
 
