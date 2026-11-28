@@ -1,9 +1,9 @@
 name: Update README ✨
 
-# Run daily at 01:00 UTC
+# Run daily at 01:15 UTC (after grs.yml at 01:00)
 on:
   schedule:
-    - cron: "0 01 * * *"
+    - cron: "15 01 * * *"
 
   workflow_dispatch:
 
@@ -11,12 +11,24 @@ on:
     branches:
     - main
 
+# Serialize with grs.yml: both workflows commit to main
+concurrency:
+  group: main-writes
+  cancel-in-progress: false
+
 jobs:
   markscribe:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@master
+      # Check out the tip of main (not the triggering SHA) so a commit pushed by
+      # grs.yml while this run waited on the concurrency group is included
+      - uses: actions/checkout@v6
+        with:
+          ref: main
 
       - uses: muesli/readme-scribe@master
         env:
@@ -25,9 +37,7 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "docs: update generated README"
           branch: main

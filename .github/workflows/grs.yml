@@ -11,6 +11,11 @@ on:
     branches:
     - main
 
+# Serialize with readme-scribe.yml: both workflows commit to main
+concurrency:
+  group: main-writes
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
