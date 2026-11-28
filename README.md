@@ -20,21 +20,21 @@ I love working in Linux and the terminal is where I spend most of my time.
 
 #### 👷 My active projects
 
-- [coko7/archy-factory](https://github.com/coko7/archy-factory) - 🏗️ Automated Arch Linux install factory — spin up VMs and bootstrap unattended archinstall setups via a one-line curl script. (1 day ago)
-- [coko7/scripts](https://github.com/coko7/scripts) - 🛠️ My personal collection of shell scripts I rely on everyday. (4 days ago)
-- [coko7/portfolio](https://github.com/coko7/portfolio) - ✨ Source code for my static portfolio website (1 week ago)
+- [coko7/Coko7](https://github.com/coko7/Coko7) - ✨ Personal README (today)
+- [coko7/nbi](https://github.com/coko7/nbi) - 🐦 Ratatui TUI for the NetBird VPN client, with a Waybar module (3 days ago)
+- [coko7/archy-factory](https://github.com/coko7/archy-factory) - 🏗️ Automated Arch Linux install factory — spin up VMs and bootstrap unattended archinstall setups via a one-line curl script. (4 days ago)
 
 #### 🌱 My latest projects
 
-- [coko7/nbi](https://github.com/coko7/nbi) - 
+- [coko7/nbi](https://github.com/coko7/nbi) - 🐦 Ratatui TUI for the NetBird VPN client, with a Waybar module
 - [coko7/revoltui](https://github.com/coko7/revoltui) - ✊ Unofficial terminal UI for https://manifsendirect.fr — browse ongoing and upcoming protests, strikes and blockades in France.
 - [coko7/osomty](https://github.com/coko7/osomty) - 🗺️ Terminal map browser for OpenStreetMap.
 
 #### ⭐ Recent Stars
 
-- [os6/nospeaker](https://github.com/os6/nospeaker) - make your macbook&#39;s trackpad talk using its haptic motor (1 day ago)
-- [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file (4 days ago)
-- [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi) - A collection of Yazi&#39;s Plugins, flavours and more resources. (4 days ago)
+- [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - Multi-platform app that allows your devices to communicate (1 day ago)
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust (2 days ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick. Skill &#43; local proxy for coding agents: shorter answers, smaller tool output, every original recoverable. (2 days ago)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Coko7/Coko7/snake/github-contribution-grid-snake-dark.svg">
